@@ -1,8 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -17,7 +15,6 @@ public class Main {
         int m = Integer.parseInt(st.nextToken());
 
         parent = new int[n+1];
-        List<String> temp = new ArrayList<>();
 
         for(int i = 0; i<n+1; i++){
             parent[i] = i;
@@ -34,17 +31,11 @@ public class Main {
             }
             else{
                 boolean result = iscombined(a, b);
-                if(result) temp.add("YES");
-                else temp.add("NO");
+                if(result) System.out.println("YES");
+                else System.out.println("NO");
             }
         }
-
-        for(int i = 0; i<temp.size(); i++){
-            System.out.println(temp.get(i));
-        }
-
-
-    }
+     }
 
     public static int find(int a){
         if(parent[a] == a) return a;
