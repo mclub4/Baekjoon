@@ -11,5 +11,6 @@
 
 <br>
 
-기본 문제 : [[브론즈3]약수 구하기](https://www.acmicpc.net/problem/2501)
+기본 문제 : [[브론즈3] 약수 구하기](https://www.acmicpc.net/problem/2501)
+
 
