@@ -6,4 +6,4 @@
 
 ### - 약수 구하기
 
-알고리즘 설명 : 링크(https://kbw1101.tistory.com/32)
+알고리즘 설명 : [링크](https://kbw1101.tistory.com/32)
