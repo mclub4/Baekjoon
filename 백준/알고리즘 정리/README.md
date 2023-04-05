@@ -233,17 +233,22 @@
  
   - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
 
-### - 비트 마스킹
+### - 완전 탐색/이분 탐색/삼분 탐색
 
 - #### 알고리즘 설명
 
-  - 
+  - [완전 탐색](https://anz1217.tistory.com/13)
+  - [이분 탐색](https://velog.io/@kimdukbae/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-Binary-Search)
+  - [삼분 탐색](https://velog.io/@blankspxcx/%EC%82%BC%EB%B6%84-%ED%83%90%EC%83%89-Tenary-Search)
 
 - #### 기본 문제
 
   - 
 
 - #### 응용 문제
+
+   - [[골드4] 민호와 강호](https://www.acmicpc.net/problem/11662)(삼분 탐색)
+   - [[골드2] 국민 랜드](https://www.acmicpc.net/problem/13421)(삼분 탐색)
  
 
 ### - 비트 마스킹
