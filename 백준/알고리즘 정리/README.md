@@ -183,6 +183,7 @@
 - #### 알고리즘 설명
 
   - [DP](https://hongjw1938.tistory.com/47)
+  - [DP의 최적화](https://anz1217.tistory.com/130)
   - 골드의 "LCS" 문제랑 "냅색 문제"랑 연계됨
 
 - #### 기본 문제
