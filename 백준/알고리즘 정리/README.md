@@ -287,7 +287,8 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [그래프](https://leejinseop.tistory.com/43)
+  - [DFS와 BFS](https://velog.io/@lucky-korma/DFS-BFS%EC%9D%98-%EC%84%A4%EB%AA%85-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 - #### 기본 문제
 
@@ -332,14 +333,19 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [해싱](https://ratsgo.github.io/data%20structure&algorithm/2017/10/25/hash/)
+  - [딕셔너리 (파이썬)](https://blockdmask.tistory.com/450)
 
 - #### 기본 문제
 
-  - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
+  - [[실버4] 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 
 - #### 응용 문제
 
+  - [[실버4] 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+  - [[실버4] 듣보잡](https://www.acmicpc.net/problem/1764)
+  - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
+  - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 
 ## < 골드 >
 
@@ -374,11 +380,15 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [CCW](https://snowfleur.tistory.com/98)
+  - [신발끈 공식](https://omath.tistory.com/105)
+  - [넓이에 따른 CCW](https://www.acmicpc.net/blog/view/27)
+  - [선분 교차](https://gaussian37.github.io/math-algorithm-line_intersection/)
 
 - #### 기본 문제
 
   - [[골드5] CCW](https://www.acmicpc.net/problem/11758)
+  - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
 
 - #### 응용 문제
 
