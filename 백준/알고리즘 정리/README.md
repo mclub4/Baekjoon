@@ -174,6 +174,7 @@
  
   - [[실버3] 주유소](https://www.acmicpc.net/problem/13305)
   - [[실버1] 회의실 배정](https://www.acmicpc.net/problem/1931)
+  - [[골드5] 주사위](https://www.acmicpc.net/problem/1041)
   - [[골드2] 보석 도둑](https://www.acmicpc.net/problem/1202)
 
 ### - 동적 계획법 (DP)
@@ -311,13 +312,16 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [냅색](https://gsmesie692.tistory.com/113)
 
 - #### 기본 문제
 
-  - 
+  - [[골드5] 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
 - #### 응용 문제
+
+  - [[골드5] 호텔](https://www.acmicpc.net/problem/1106) 
+  - [[골드3] 양팔저울](https://www.acmicpc.net/problem/2629)
 
 ### - LCS
 
@@ -339,7 +343,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드5] CCW](https://www.acmicpc.net/problem/11758)
 
 - #### 응용 문제
 
@@ -359,37 +363,54 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [크루스칼 알고리즘](https://4legs-study.tistory.com/111)
+  - [프림 알고리즘](https://4legs-study.tistory.com/112)
 
 - #### 기본 문제
 
-  - 
+  - [[골드4] 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
 
 - #### 응용 문제
+ 
+  - [[골드4] 네트워크 연결](https://www.acmicpc.net/problem/1922)
+  - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
+  - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
+  - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
+  - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887)
 
 ### - 분리 집합 (유니온 & 파인드)
 
 - #### 알고리즘 설명
 
-  - 
+  - [분리 집합](https://4legs-study.tistory.com/94?category=886581)
 
 - #### 기본 문제
 
-  - 
+  - [[골드5] 집합의 표현](https://www.acmicpc.net/problem/1717)
 
 - #### 응용 문제
+  
+  - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976)
+  - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040)
+  - [[골드4] 거짓말](https://www.acmicpc.net/problem/1043)
+  - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195)
+  - [[골드2] 공항](https://www.acmicpc.net/problem/10775)
+  - [[플레5] 네트워크 연결](https://www.acmicpc.net/problem/3780)
 
 ### - 위상 정렬
 
 - #### 알고리즘 설명
 
-  - 
+  - [위상정렬](https://4legs-study.tistory.com/89)
 
 - #### 기본 문제
 
-  - 
+  - [[골드3] 줄 세우기](https://www.acmicpc.net/problem/2252)
 
 - #### 응용 문제
+
+  - [[골드3] ACM craft](https://www.acmicpc.net/problem/1005)
+  - [[골드2] 문제집](https://www.acmicpc.net/problem/1766)
 
 ### - 최소 공통 조상
 
@@ -429,7 +450,7 @@
 
 ## < 플레티넘 >
 
-### - KMP 알고리즘/보이어 무어 알고리
+### - KMP 알고리즘/보이어 무어 알고리즘
 
 - #### 알고리즘 설명
 
@@ -438,7 +459,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[플레5] 찾기](https://www.acmicpc.net/problem/1786)
 
 - #### 응용 문제
 
@@ -486,7 +507,7 @@
 
 - #### 기본 문제
 
-  - [[플레2]가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
+  - [[플레2] 가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
 
 - #### 응용 문제
 
@@ -502,7 +523,7 @@
 
 - #### 응용 문제
 
-### - 야호-코라식 알고리
+### - 야호-코라식 알고리즘
 
 - #### 알고리즘 설명
 
