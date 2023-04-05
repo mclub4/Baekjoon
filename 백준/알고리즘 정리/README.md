@@ -34,5 +34,5 @@
 
 - ### Computer Architecture
 
-  - [컴퓨터 구조 기초]
+  - 테스트
 
