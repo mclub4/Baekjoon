@@ -48,4 +48,38 @@
   - [[골드5] 공약수](https://www.acmicpc.net/problem/2436)
   
   - [[골드2] 최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476)
+  
+<br>
 
+## < 실버 >
+
+
+### - 비트 마스킹
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+ 
+  - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
+
+
+### - 스택
+
+- #### 알고리즘 설명
+
+  - [링크](https://roi-data.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-4-%EC%8A%A4%ED%83%9DStack%EC%9D%B4%EB%9E%80-%EC%97%B0%EC%82%B0-%EA%B5%AC%ED%98%84%EB%B0%A9%EB%B2%95)
+
+- #### 기본 문제
+
+  - [[실버4] 스택](https://www.acmicpc.net/problem/10828)
+
+- #### 응용 문제
+
+  - [[실버4] 괄호](https://www.acmicpc.net/problem/9012)
+  - [[실버4] 스택 수열](https://www.acmicpc.net/problem/1874)
