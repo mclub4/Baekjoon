@@ -12,6 +12,3 @@
 <br>
 기본 문제 : [[브론즈3]약수 구하기](https://www.acmicpc.net/problem/2501)
 
-<br>
-
-**연습문제** : [[BOJ] DFS와 BFS](https://www.acmicpc.net/problem/1260)
