@@ -270,17 +270,20 @@
    - [[골드2] 국민 랜드 (삼분 탐색)](https://www.acmicpc.net/problem/13421)
  
 
-### - 우선순위 큐
+### - 우선순위 큐/힙
 
 - #### 알고리즘 설명
 
-  - 
+  - [우선 순위 큐](https://suyeon96.tistory.com/31)
 
 - #### 기본 문제
 
-  - 
+  - [[실버2] 최소힙](https://www.acmicpc.net/problem/1927)
+  - [[실버2] 최대힙](https://www.acmicpc.net/problem/11279)
 
 - #### 응용 문제
+ 
+  - [[실버1] 절대값 힙](https://www.acmicpc.net/problem/11286)
  
 
 ### - 그래프와 순회 (DFS와 BFS)
@@ -317,7 +320,7 @@
   - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
  
  
-### - 우선순위 큐
+### - 트리
 
 - #### 알고리즘 설명
 
@@ -391,6 +394,12 @@
   - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
 
 - #### 응용 문제
+
+  - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
+  - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
+  - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
+  - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
+  - [[플레3] 선분의 교차3](https://www.acmicpc.net/problem/20149)
 
 ### - 다익스트라 알고리즘 (최단 경로) 
 
