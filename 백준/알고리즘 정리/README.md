@@ -294,6 +294,26 @@
   - [[실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
 - #### 응용 문제
+
+  - [[실버3] 바이러스](https://www.acmicpc.net/problem/2606)
+  - [[실버2] 유기농 배추](https://www.acmicpc.net/problem/1012)
+  - [[실버2] 섬의 개수](https://www.acmicpc.net/problem/4963)
+  - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178)
+  - [[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697)
+  - [[실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562)
+  - [[실버1] 안전영역](https://www.acmicpc.net/problem/2468)
+  - [[골드5] 적록색약](https://www.acmicpc.net/problem/10026)
+  - [[골드5] 토마토](https://www.acmicpc.net/problem/7576)
+  - [[골드5] 토마토 (3차원)](https://www.acmicpc.net/problem/7569)
+  - [[골드5] 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+  - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
+  - [[골드4] 알파벳](https://www.acmicpc.net/problem/1987)
+  - [[골드4] 테트리미노](https://www.acmicpc.net/problem/14500)
+  - [[골드3] 치즈](https://www.acmicpc.net/problem/2638)
+  - [[골드3] 성곽](https://www.acmicpc.net/problem/2234)
+  - [[골드3] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+  - [[골드3] 아기상어](https://www.acmicpc.net/problem/16236)
+  - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
  
  
 ### - 우선순위 큐
@@ -409,6 +429,7 @@
   - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976)
   - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040)
   - [[골드4] 거짓말](https://www.acmicpc.net/problem/1043)
+  - [[골드3] 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
   - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195)
   - [[골드2] 공항](https://www.acmicpc.net/problem/10775)
   - [[플레5] 네트워크 연결](https://www.acmicpc.net/problem/3780)
