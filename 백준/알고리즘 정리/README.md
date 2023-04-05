@@ -105,4 +105,29 @@
  
   - [[실버5] 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
   - [[실버4] 카드2](https://www.acmicpc.net/problem/2164)
+  - [[골드5] AC](https://www.acmicpc.net/problem/5430)
   - [[골드4] 뱀](https://www.acmicpc.net/problem/3190)
+
+### - 브루트포스/백트래킹
+
+- #### 알고리즘 설명
+
+  - [브루트포스](https://foreverhappiness.tistory.com/104)
+  - [백트래킹](https://chanhuiseok.github.io/posts/algo-23/)
+
+- #### 기본 문제
+
+  - [[실버4] 설탕배달](https://www.acmicpc.net/problem/2839)
+  - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649)
+
+- #### 응용 문제
+ 
+  - [[실버4] 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+  - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
+  - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
+  - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
+  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
+  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
+  - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
+  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
