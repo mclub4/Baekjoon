@@ -291,7 +291,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
 - #### 응용 문제
  
