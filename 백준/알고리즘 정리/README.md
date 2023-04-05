@@ -52,20 +52,22 @@
 ## < 실버 >
 
 
-### - 비트 마스킹
+### - 소수 판별 (에라토스테네스의 체)
 
 - #### 알고리즘 설명
 
-  - 
+  - [소수 판별](https://velog.io/@changhee09/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%86%8C%EC%88%98%EC%9D%98-%ED%8C%90%EB%B3%84-%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98-%EC%B2%B4)
 
 - #### 기본 문제
 
-  - 
+  - [[실버4] 에라토스테네스의 체] (https://www.acmicpc.net/problem/2960)
 
 - #### 응용 문제
  
-  - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
-
+  - [[실버3] 소수 구하](https://www.acmicpc.net/problem/1929)
+  - [[실버1] 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
+  - [[골드5] 신기한 소수](https://www.acmicpc.net/problem/2023)
+  - [[골드1] 제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)
 
 ### - 스택
 
@@ -105,6 +107,7 @@
  
   - [[실버5] 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
   - [[실버4] 카드2](https://www.acmicpc.net/problem/2164)
+  - [[실버1] 트럭](https://www.acmicpc.net/problem/13335)
   - [[골드5] AC](https://www.acmicpc.net/problem/5430)
   - [[골드4] 뱀](https://www.acmicpc.net/problem/3190)
 
@@ -131,3 +134,79 @@
   - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
   - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
   - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
+  
+### - 재귀
+
+- #### 알고리즘 설명
+
+  - [재귀](https://medium.com/@sunnkis/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9E%AC%EA%B7%80-8d96633be4cd)
+
+- #### 기본 문제
+
+  - [[실버5] 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
+- #### 응용 문제
+ 
+  - [[실버1] 하노이탑 이동 순서](https://www.acmicpc.net/problem/11729)
+  - [[골드5] 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+  - [[골드2] 하노이탑](https://www.acmicpc.net/problem/2270)
+  - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
+
+### - 그리디 알고리즘
+
+- #### 알고리즘 설명
+
+  - [그리디](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+
+- #### 기본 문제
+
+  - [[실버4] 동전 0](https://www.acmicpc.net/problem/11047)
+
+- #### 응용 문제
+ 
+  - [[실버3] 주유소](https://www.acmicpc.net/problem/13305)
+  - [[실버1] 회의실 배정](https://www.acmicpc.net/problem/1931)
+  - [[골드2] 보석 도둑](https://www.acmicpc.net/problem/1202)
+
+### - 동적 계획법 (DP)
+
+- #### 알고리즘 설명
+
+  - [DP](https://hongjw1938.tistory.com/47)
+  - 골드의 "LCS" 문제랑 "냅색 문제"랑 연계됨
+
+- #### 기본 문제
+
+  - [[실버3] 피보나치 함수](https://www.acmicpc.net/problem/1003)
+
+- #### 응용 문제
+ 
+  - [[실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726)
+  - [[실버3] 2xn 타일링2](https://www.acmicpc.net/problem/11727)
+  - [[실버3] 계단 오르기](https://www.acmicpc.net/problem/2579)
+  - [[실버2] 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+  - [[실버1] 포도주 시식](https://www.acmicpc.net/problem/2156)
+  - [[실버1] RGB 거리](https://www.acmicpc.net/problem/1149)
+  - [[실버1] 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+  - [[골드4] RGB 거리 2](https://www.acmicpc.net/problem/17404)
+  - [[골드3] 파일 합치기](https://www.acmicpc.net/problem/11066)
+  - [[골드3] 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
+  - [[골드3] 색상환](https://www.acmicpc.net/problem/2482)
+  - [[골드2] 로봇 조종하기](https://www.acmicpc.net/problem/2169)
+  - [[골드1] 방법을 출력하지 않는 숫자 맞추기](https://www.acmicpc.net/problem/13392)
+  - [[플레5] 숫자 맞추기](https://www.acmicpc.net/problem/2494)
+  - [[플레4] 경찰차](https://www.acmicpc.net/problem/2618)
+  - [[플레1] 탈옥](https://www.acmicpc.net/problem/13261)
+
+### - 비트 마스킹
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+ 
+  - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
