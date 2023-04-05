@@ -7,8 +7,8 @@
 ### - 약수 구하기
 <br>
 
-알고리즘 설명 : [링크](https://kbw1101.tistory.com/32)
+* 알고리즘 설명 : [링크](https://kbw1101.tistory.com/32)
 
-기본 문제 : [[브론즈3] 약수 구하기](https://www.acmicpc.net/problem/2501)
+* 기본 문제 : [[브론즈3] 약수 구하기](https://www.acmicpc.net/problem/2501)
 
 
