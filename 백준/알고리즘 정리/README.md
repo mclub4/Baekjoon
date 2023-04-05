@@ -16,9 +16,11 @@
 ### - 소인수 분해
 
 
-* 알고리즘 설명 : [링크](https://velog.io/@sangwoo_le/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
+- #### 알고리즘 설명 
+ - [링크](https://velog.io/@sangwoo_le/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
 
-* 기본 문제 : [[브론즈3] 소인수분해](https://www.acmicpc.net/problem/11653)
+- #### 알고리즘 설명 
+ - [[브론즈3] 소인수분해](https://www.acmicpc.net/problem/11653)
 
 <br>
 
@@ -32,7 +34,7 @@
 - #### 응용 문제 :
  - 테스트
 
-- #### Computer Architecture
+- ### Computer Architecture
 
   - 테스트
 
