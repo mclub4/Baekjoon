@@ -143,6 +143,7 @@
   - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
   - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
   - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
   
 ### - 재귀
 
