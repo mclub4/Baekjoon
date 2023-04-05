@@ -30,14 +30,11 @@
 
   - [링크](https://imkh.dev/algorithm-gcd-lcm/)
 
+- #### 기본 문제
 
+  - [[브론즈1] 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 
-* 기본 문제 : [[브론즈3] 소인수분해](https://www.acmicpc.net/problem/2609)
-
-- #### 응용 문제 :
- - 테스트
-
-- #### Computer Architecture
+- #### 응용 문제
 
   - 테스트
 
