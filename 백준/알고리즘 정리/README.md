@@ -247,8 +247,8 @@
 
 - #### 응용 문제
 
-   - [[골드4] 민호와 강호](https://www.acmicpc.net/problem/11662)(삼분 탐색)
-   - [[골드2] 국민 랜드](https://www.acmicpc.net/problem/13421)(삼분 탐색)
+   - [[골드4] 민호와 강호](삼분탐색)(https://www.acmicpc.net/problem/11662)
+   - [[골드2] 국민 랜드](삼분탐색)(https://www.acmicpc.net/problem/13421)
  
 
 ### - 비트 마스킹
