@@ -629,6 +629,12 @@
 
 - #### 응용 문제
 
+  - [[플레5] 문자열 제곱](https://www.acmicpc.net/problem/4354)
+  - [[플레5] 속타는 저녁 메뉴](https://www.acmicpc.net/problem/11585)
+  - [[플레4] 광고](https://www.acmicpc.net/problem/1305)
+  - [[플레4] 시계 사진들](https://www.acmicpc.net/problem/10266)
+  - [[플레3] 문자열 장식](https://www.acmicpc.net/problem/17233)
+
 ### - Z 알고리즘
 
 - #### 알고리즘 설명
