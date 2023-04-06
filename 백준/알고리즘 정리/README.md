@@ -444,6 +444,78 @@
 
 - #### 응용 문제
 
+### - 스위핑
+
+- #### 알고리즘 설명
+
+  - [스위핑](https://byeo.tistory.com/entry/%EC%8A%A4%EC%9C%84%ED%95%91-Sweeping)
+
+- #### 기본 문제
+
+  - [[골드5] 선 긋기](https://www.acmicpc.net/problem/2170)
+
+- #### 응용 문제
+
+  - [[골드3] 수상 택시](https://www.acmicpc.net/problem/2836)
+
+### - 트라이
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+
+-------------------------------------
+## [ 기하학 ]
+
+### - CCW/선분 교차
+
+- #### 알고리즘 설명
+
+  - [CCW](https://snowfleur.tistory.com/98)
+  - [신발끈 공식](https://omath.tistory.com/105)
+  - [넓이에 따른 CCW](https://www.acmicpc.net/blog/view/27)
+  - [선분 교차](https://gaussian37.github.io/math-algorithm-line_intersection/)
+
+- #### 기본 문제
+
+  - [[골드5] CCW](https://www.acmicpc.net/problem/11758)
+  - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
+
+- #### 응용 문제
+  
+  - [[골드5] 다각형의 면적](https://www.acmicpc.net/problem/2166)
+  - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
+  - [[골드2] 두 원](https://www.acmicpc.net/problem/7869)
+  - [[골드1] 원뿔 좌표계상의 거리](https://www.acmicpc.net/problem/1798)
+  - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
+  - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
+  - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
+  - [[플레4] 석양이 진다..](https://www.acmicpc.net/problem/13352)
+  - [[플레3] 선분의 교차3](https://www.acmicpc.net/problem/20149)
+
+### - 삼분 탐색
+
+- #### 알고리즘 설명
+
+  - [삼분 탐색](https://velog.io/@blankspxcx/%EC%82%BC%EB%B6%84-%ED%83%90%EC%83%89-Tenary-Search) 
+
+- #### 기본 문제
+
+  - [[골드4] 민호와 강호](https://www.acmicpc.net/problem/11662) 
+
+- #### 응용 문제
+
+  - [[골드3] 블록 쌓기](https://www.acmicpc.net/problem/9998)
+  - [[골드2] 국민 랜드](https://www.acmicpc.net/problem/13421)
+  - [[플레5] 전봇대](https://www.acmicpc.net/problem/8986)
+  - [[다이아5] 먼 별](https://www.acmicpc.net/problem/13310)
+
 -------------------------------------
 ## [ 그래프 이론 ]
 
@@ -559,75 +631,6 @@
 - #### 응용 문제
 
 -------------------------------------
-
-### - 스위핑
-
-- #### 알고리즘 설명
-
-  - [스위핑](https://byeo.tistory.com/entry/%EC%8A%A4%EC%9C%84%ED%95%91-Sweeping)
-
-- #### 기본 문제
-
-  - [[골드5] 선 긋기](https://www.acmicpc.net/problem/2170)
-
-- #### 응용 문제
-
-  - [[골드3] 수상 택시](https://www.acmicpc.net/problem/2836)
-
-### - CCW/선분 교차
-
-- #### 알고리즘 설명
-
-  - [CCW](https://snowfleur.tistory.com/98)
-  - [신발끈 공식](https://omath.tistory.com/105)
-  - [넓이에 따른 CCW](https://www.acmicpc.net/blog/view/27)
-  - [선분 교차](https://gaussian37.github.io/math-algorithm-line_intersection/)
-
-- #### 기본 문제
-
-  - [[골드5] CCW](https://www.acmicpc.net/problem/11758)
-  - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
-
-- #### 응용 문제
-  
-  - [[골드5] 다각형의 면적](https://www.acmicpc.net/problem/2166)
-  - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
-  - [[골드2] 두 원](https://www.acmicpc.net/problem/7869)
-  - [[골드1] 원뿔 좌표계상의 거리](https://www.acmicpc.net/problem/1798)
-  - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
-  - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
-  - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
-  - [[플레4] 석양이 진다..](https://www.acmicpc.net/problem/13352)
-  - [[플레3] 선분의 교차3](https://www.acmicpc.net/problem/20149)
-
-### - 삼분 탐색
-
-- #### 알고리즘 설명
-
-  - [삼분 탐색](https://velog.io/@blankspxcx/%EC%82%BC%EB%B6%84-%ED%83%90%EC%83%89-Tenary-Search) 
-
-- #### 기본 문제
-
-  - [[골드4] 민호와 강호](https://www.acmicpc.net/problem/11662) 
-
-- #### 응용 문제
-
-  - [[골드3] 블록 쌓기](https://www.acmicpc.net/problem/9998)
-  - [[골드2] 국민 랜드](https://www.acmicpc.net/problem/13421)
-  - [[플레5] 전봇대](https://www.acmicpc.net/problem/8986)
-  - [[다이아5] 먼 별](https://www.acmicpc.net/problem/13310)
-
-### - 트라이
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - 
-
-- #### 응용 문제
 
 <br>
 
