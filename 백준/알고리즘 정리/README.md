@@ -216,6 +216,60 @@
   - [[실버1] 절대값 힙](https://www.acmicpc.net/problem/11286)
   - [[골드4] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
 
+### - 트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+
+### - 해싱
+
+- #### 알고리즘 설명
+
+  - [해싱](https://ratsgo.github.io/data%20structure&algorithm/2017/10/25/hash/)
+  - [딕셔너리 (파이썬)](https://blockdmask.tistory.com/450)
+
+- #### 기본 문제
+
+  - [[실버4] 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+
+- #### 응용 문제
+
+  - [[실버4] 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+  - [[실버4] 듣보잡](https://www.acmicpc.net/problem/1764)
+  - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
+  - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+
+<br>
+
+## [ 골드 ]
+
+### - 세그먼트트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+
+<br>
+
+-----------------------------------------------
+
+<br>
+
+# 📌 < 그래프 >
+
 ### - 그래프와 순회 (DFS와 BFS)
 
 - #### 알고리즘 설명
@@ -248,36 +302,6 @@
   - [[골드3] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
   - [[골드3] 아기상어](https://www.acmicpc.net/problem/16236)
   - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
-
-### - 트리
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - 
-
-- #### 응용 문제
-
-### - 해싱
-
-- #### 알고리즘 설명
-
-  - [해싱](https://ratsgo.github.io/data%20structure&algorithm/2017/10/25/hash/)
-  - [딕셔너리 (파이썬)](https://blockdmask.tistory.com/450)
-
-- #### 기본 문제
-
-  - [[실버4] 숫자 카드 2](https://www.acmicpc.net/problem/10816)
-
-- #### 응용 문제
-
-  - [[실버4] 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
-  - [[실버4] 듣보잡](https://www.acmicpc.net/problem/1764)
-  - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
-  - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 
 <br>
 
@@ -359,18 +383,6 @@
 - #### 응용 문제
 
 ### - 최소 공통 조상 (LCA)
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - 
-
-- #### 응용 문제
-
-### - 세그먼트트리
 
 - #### 알고리즘 설명
 
