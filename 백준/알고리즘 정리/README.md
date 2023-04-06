@@ -74,7 +74,10 @@
   - [AtCoder](https://atcoder.jp/)
   - [LeetCode](https://leetcode.com/)
   
-# 📌 < 브론즈 >
+  
+# 📌 < 기초 정수론 >
+
+## [ 브론즈 ]
 
 ### - 약수 구하기
 
@@ -114,10 +117,7 @@
   - [[골드5] 공약수](https://www.acmicpc.net/problem/2436)
   - [[골드2] 최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476)
   
-<br>
-
-# 📌 < 실버 >
-
+## [ 실버 ]
 
 ### - 소수 판별 (에라토스테네스의 체)
 
@@ -135,6 +135,10 @@
   - [[실버1] 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
   - [[골드5] 신기한 소수](https://www.acmicpc.net/problem/2023)
   - [[골드1] 제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)
+
+# 📌 < 자료구조 >
+
+## [ 실버 ]
 
 ### - 스택
 
