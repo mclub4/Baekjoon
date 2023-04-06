@@ -767,7 +767,8 @@
 
 - #### 알고리즘 설명
 
-  - [삼분 탐색](https://velog.io/@blankspxcx/%EC%82%BC%EB%B6%84-%ED%83%90%EC%83%89-Tenary-Search) 
+  - [삼분 탐색](https://velog.io/@blankspxcx/%EC%82%BC%EB%B6%84-%ED%83%90%EC%83%89-Tenary-Search)
+  - [삼분 탐색의 기하학적 의미](https://blog.naver.com/PostView.nhn?blogId=kks227&logNo=221432986308&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 - #### 기본 문제
 
