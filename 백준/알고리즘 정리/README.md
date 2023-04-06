@@ -26,6 +26,7 @@
   - [리눅스 명령어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Linux%20Basic%20Command.md)
   - github 설정
   - git 
+  - [백준 푼 문제 자동으로 git에 올리기](https://github.com/BaekjoonHub/BaekjoonHub)
   
 ### - IDE
 
