@@ -66,6 +66,13 @@
 ### - 코딩 문제 사이트
 
 - #### 설명
+ 
+  - [백준](https://www.acmicpc.net/)
+  - [Solved AC(백준 난이도 티어)](https://solved.ac/)
+  - [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent)
+  - [CodeForces](http://codeforces.com/)
+  - [AtCoder](https://atcoder.jp/)
+  - [LeetCode](https://leetcode.com/)
   
 ## < 브론즈 >
 
