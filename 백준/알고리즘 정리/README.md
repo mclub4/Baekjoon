@@ -121,15 +121,19 @@
 
 - #### 기본 문제
   
-  - [[브론즈1] 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+  - [[브론즈2] 블랙잭](https://www.acmicpc.net/problem/2798)
   - [[실버4] 설탕배달](https://www.acmicpc.net/problem/2839)
   - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649)
 
 - #### 응용 문제
  
+  - [[브론즈2] 블랙잭](https://www.acmicpc.net/problem/2798)
+  - [[브론즈2] 분해합](https://www.acmicpc.net/problem/2231)
+  - [[브론즈1] 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
   - [[실버4] 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
   - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
   - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
+  - [[실버2] 마인크래프트](https://www.acmicpc.net/problem/18111)
   - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
   - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
   - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
@@ -155,6 +159,7 @@
 - #### 응용 문제
  
   - [[실버1] 하노이탑 이동 순서](https://www.acmicpc.net/problem/11729)
+  - [[실버1] Z](https://www.acmicpc.net/problem/1074)
   - [[골드5] 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
   - [[골드2] 하노이탑](https://www.acmicpc.net/problem/2270)
   - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
@@ -171,6 +176,7 @@
 
 - #### 응용 문제
  
+  - [[실버4] ATM](https://www.acmicpc.net/problem/11399)
   - [[실버3] 주유소](https://www.acmicpc.net/problem/13305)
   - [[실버1] 회의실 배정](https://www.acmicpc.net/problem/1931)
   - [[골드5] 주사위](https://www.acmicpc.net/problem/1041)
@@ -225,6 +231,7 @@
 - #### 응용 문제
  
   - [[실버5] 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+  - [[실버4] 큐](https://www.acmicpc.net/problem/10845)
   - [[실버4] 카드2](https://www.acmicpc.net/problem/2164)
   - [[실버1] 트럭](https://www.acmicpc.net/problem/13335)
   - [[골드5] AC](https://www.acmicpc.net/problem/5430)
@@ -272,6 +279,7 @@
 - #### 응용 문제
 
   - [[실버4] 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+  - [[실버4] 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
   - [[실버4] 듣보잡](https://www.acmicpc.net/problem/1764)
   - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
   - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
@@ -478,6 +486,7 @@
 
 - #### 응용 문제
  
+  - [[실버3] 1로 만들기](https://www.acmicpc.net/problem/1463)
   - [[실버3] 2xn 타일링](https://www.acmicpc.net/problem/11726)
   - [[실버3] 2xn 타일링2](https://www.acmicpc.net/problem/11727)
   - [[실버3] 계단 오르기](https://www.acmicpc.net/problem/2579)
@@ -701,6 +710,31 @@
 
 [ * 목차로 가기 ](#--목차-)
 
+## [ 브론 ]
+
+### - 기하
+
+ - #### 기본 문제
+   
+   - [[브론즈5] 사분면 고르기](https://www.acmicpc.net/problem/14681)
+   - [[브론즈3] 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+   - [[브론즈3] 직각삼각형](https://www.acmicpc.net/problem/4153)
+   - [[브론즈3] 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
+
+ - #### 응용 문제
+   
+   - [[실버3] 터렛](https://www.acmicpc.net/problem/1002)
+   - [[실버3] 어린 왕자](https://www.acmicpc.net/problem/1004)
+   - [[실버2] 참외밭](https://www.acmicpc.net/problem/2477)
+   - [[실버2] 겉넓이 구하기](https://www.acmicpc.net/problem/16931)
+   - [[골드5] 3차원 막대기 연결하기](https://www.acmicpc.net/problem/19950)
+   - [[골드3] 집으로](https://www.acmicpc.net/problem/1069)
+   - [[골드2] 두 원](https://www.acmicpc.net/problem/7869)
+   - [[골드1] 원뿔 좌표계상의 거리](https://www.acmicpc.net/problem/1798)
+   - [[플레4] 석양이 진다..](https://www.acmicpc.net/problem/13352)
+
+<br>
+
 ## [ 골드 ]
 
 ### - CCW/선분 교차/기초 
@@ -720,9 +754,9 @@
 - #### 응용 문제
   
   - [[골드5] 다각형의 면적](https://www.acmicpc.net/problem/2166)
+  - [[골드4] 사과나무](https://www.acmicpc.net/problem/2987)
+  - [[골드4] 방사형 그래프](https://www.acmicpc.net/problem/25308)
   - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
-  - [[골드2] 두 원](https://www.acmicpc.net/problem/7869)
-  - [[골드1] 원뿔 좌표계상의 거리](https://www.acmicpc.net/problem/1798)
   - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
   - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
   - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
@@ -758,9 +792,31 @@
 
 - #### 기본 문제
 
-  - 
+  - [[플레5] 볼록 껍질](https://www.acmicpc.net/problem/1708)
 
 - #### 응용 문제
+
+  - [[플레5] 맹독 방벽](https://www.acmicpc.net/problem/7420)
+  - [[플레4] 단순 다각형](https://www.acmicpc.net/problem/3679)
+  - [[플레2] 고속도로](https://www.acmicpc.net/problem/10254)
+
+### - 다각형 내부 점 판정
+
+- #### 알고리즘 설명
+
+  - [다각형 내부 점 판정](https://anz1217.tistory.com/107)
+
+- #### 기본 문제
+
+  - [[플레5] 지민이의 테러](https://www.acmicpc.net/problem/1688)
+
+- #### 응용 문제
+  
+  - [[플레4] 감옥 건설](https://www.acmicpc.net/problem/2254)
+  - [[플레3] 미스테리 싸인](https://www.acmicpc.net/problem/20670)
+  - [[플레3] 걷기](https://www.acmicpc.net/problem/3700)
+  - [[플레2 점 분리](https://www.acmicpc.net/problem/3878)
+  - [[플레1] 넓이](https://www.acmicpc.net/problem/1077)
 
 <br>
 
