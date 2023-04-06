@@ -44,8 +44,12 @@
 ### - Java
 
 - #### 설명
-
+  
+  - [BufferedReader (빠른 I/O)](https://blog.naver.com/ka28/221850826909)
+  - [StringTokenizer (문자열 분리)](https://jhnyang.tistory.com/entry/JAVA-StringTokenizer-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0-split-%EB%B9%84%EA%B5%90)
+  - [StringBuilder (I/O 모았다가 한번에 출력)](https://onlyfor-me-blog.tistory.com/317)
   - [Comparator](https://lookingfor.tistory.com/entry/%EC%9E%90%EB%B0%94-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B9%84%EA%B5%90-%ED%95%A8%EC%88%98-compare-compareTo)
+  - [Collection](https://gangnam-americano.tistory.com/41)
   - [Long보다 큰 수 비교하기 (BigInteger)](https://coding-factory.tistory.com/604)
   
 ## < 브론즈 >
