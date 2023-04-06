@@ -14,6 +14,7 @@
   - [시간 복잡도](https://bblackscene21.tistory.com/7)
   - [진법 변환](https://blog.naver.com/icbanq/221727893563)
   - [2의 보수](https://life-with-coding.tistory.com/298)
+  - [오버로딩 & 오버라이딩](https://hyoje420.tistory.com/14)
   - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
   - [동시성](https://spacebike.tistory.com/22)
 
