@@ -86,7 +86,6 @@
 
   - [[브론즈3] 약수 구하기](https://www.acmicpc.net/problem/2501)
 
-<br>
 
 ### - 소인수 분해
 
@@ -97,8 +96,6 @@
 - #### 기본 문제
 
   - [[브론즈1] 소인수 분해](https://www.acmicpc.net/problem/11653)
-
-<br>
 
 ### - 최대 공약수와 최소공배수 (유클리드 호제법)
 
@@ -318,17 +315,12 @@
 
   - [완전 탐색](https://anz1217.tistory.com/13)
   - [이분 탐색](https://velog.io/@kimdukbae/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-Binary-Search)
-  - [삼분 탐색](https://velog.io/@blankspxcx/%EC%82%BC%EB%B6%84-%ED%83%90%EC%83%89-Tenary-Search)
 
 - #### 기본 문제
 
   - 
 
 - #### 응용 문제
-
-   - [[골드4] 민호와 강호 (삼분 탐색)](https://www.acmicpc.net/problem/11662)
-   - [[골드2] 국민 랜드 (삼분 탐색)](https://www.acmicpc.net/problem/13421)
- 
 
 ### - 우선순위 큐/힙
 
@@ -379,7 +371,6 @@
   - [[골드3] 아기상어](https://www.acmicpc.net/problem/16236)
   - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
  
- 
 ### - 트리
 
 - #### 알고리즘 설명
@@ -409,6 +400,8 @@
   - [[실버4] 듣보잡](https://www.acmicpc.net/problem/1764)
   - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
   - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+
+<br>
 
 ## < 골드 >
 
@@ -577,6 +570,39 @@
 
 - #### 응용 문제
 
+### - 스위칭
+
+- #### 알고리즘 설명
+
+  - [스위핑](https://byeo.tistory.com/entry/%EC%8A%A4%EC%9C%84%ED%95%91-Sweeping)
+
+- #### 기본 문제
+
+  - [[골드5] 선 긋기](https://www.acmicpc.net/problem/2170)
+
+- #### 응용 문제
+
+  - [[골드3] 수상 택시](https://www.acmicpc.net/problem/2836)
+
+### - 삼분 탐색
+
+- #### 알고리즘 설명
+
+  - [삼분 탐색](https://velog.io/@blankspxcx/%EC%82%BC%EB%B6%84-%ED%83%90%EC%83%89-Tenary-Search) 
+
+- #### 기본 문제
+
+  - [[골드4] 민호와 강호](https://www.acmicpc.net/problem/11662) 
+
+- #### 응용 문제
+
+  - [[골드3] 블록 쌓기](https://www.acmicpc.net/problem/9998)
+  - [[골드2] 국민 랜드](https://www.acmicpc.net/problem/13421)
+  - [[플레5] 전봇대](https://www.acmicpc.net/problem/8986)
+  - [[다이아5] 먼 별](https://www.acmicpc.net/problem/13310)
+
+<br>
+
 ## < 플레티넘 >
 
 ### - KMP 알고리즘/보이어 무어 알고리즘
@@ -663,6 +689,8 @@
   - 
 
 - #### 응용 문제
+
+<br>
 
 ## < 다이아 >
 
