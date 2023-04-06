@@ -159,10 +159,8 @@
 - #### 응용 문제
  
   - [[실버1] 하노이탑 이동 순서](https://www.acmicpc.net/problem/11729)
-  - [[실버1] Z](https://www.acmicpc.net/problem/1074)
   - [[골드5] 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
   - [[골드2] 하노이탑](https://www.acmicpc.net/problem/2270)
-  - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
   
 ### - 그리디 알고리즘
 
@@ -501,25 +499,31 @@
   - [[골드3] 색상환](https://www.acmicpc.net/problem/2482)
   - [[골드2] 로봇 조종하기](https://www.acmicpc.net/problem/2169)
   - [[골드1] 방법을 출력하지 않는 숫자 맞추기](https://www.acmicpc.net/problem/13392)
+  - [[골드1] 플레이리스트](https://www.acmicpc.net/problem/12872)
+  - [[골드1] 펠린드롬 분할](https://www.acmicpc.net/problem/1509)
   - [[플레5] 숫자 맞추기](https://www.acmicpc.net/problem/2494)
   - [[플레5] 연세워터파크](https://www.acmicpc.net/problem/15678)
   - [[플레4] 경찰차](https://www.acmicpc.net/problem/2618)
-  - [[플레1] 탈옥](https://www.acmicpc.net/problem/13261)
-
+  
 ### - 분할 정복
 
 - #### 알고리즘 설명
 
   - [분할 정복](https://anz1217.tistory.com/17)
-
+  
 - #### 기본 문제
 
-  - 
+  - [[실버2] 색종이 만들기](https://www.acmicpc.net/problem/2630)
 
 - #### 응용 문제
  
-  - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
-
+  - [[실버1] 곱셈](https://www.acmicpc.net/problem/1629)
+  - [[실버1] Z](https://www.acmicpc.net/problem/1074)
+  - [[골드1] 이항 계수 3](https://www.acmicpc.net/problem/11401)
+  - [[골드1] 스카이라인](https://www.acmicpc.net/problem/1933)
+  - [[플레5] 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+  - [[플레5] 버블 소트](https://www.acmicpc.net/problem/1517)
+ 
 ### - 합병 정렬
 
 - #### 알고리즘 설명
@@ -603,6 +607,16 @@
 
 ## [ 플레티넘 ]
 
+### - L-트리미노 퍼즐
+
+- #### 알고리즘 설명
+
+  - [트리미노 퍼즐](https://velog.io/@qlwb7187/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-L-tailing%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8C)
+
+- #### 기본 문제
+
+  - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
+
 ### - 최근접 점의 쌍 찾기(Closest Pair of Points)
 
 - #### 알고리즘 설명
@@ -613,8 +627,38 @@
 
   - [[플레2] 가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
 
+### - 컨벡스 헐 트릭(Convex Hull Trick)
+
+- #### 알고리즘 설명
+
+  - [컨벡스 헐 트릭](https://anz1217.tistory.com/143)
+
+- #### 기본 문제
+
+  - [[플레2] 컨벡스 헐 트릭](https://www.acmicpc.net/problem/13263)
+
 - #### 응용 문제
 
+  - [[다이아5] 특공](https://www.acmicpc.net/problem/4008)
+  - [[다이아4] 수열 나누기](https://www.acmicpc.net/problem/10067)
+
+### - 분할 정복 최적화
+
+- #### 알고리즘 설명
+
+  - [분할 정복 최적화](https://anz1217.tistory.com/144)
+
+- #### 기본 문제
+
+  - [[플레1] 탈옥](https://www.acmicpc.net/problem/13261)
+
+- #### 응용 문제
+
+  - [[플레1] 김치](https://www.acmicpc.net/problem/11001)
+  - [[플레1] 수열의 OR 점수](https://www.acmicpc.net/problem/13262)
+  - [[다이아5] 지사 배정](https://www.acmicpc.net/problem/12766)
+  - [[다이아5] 우체국 3](https://www.acmicpc.net/problem/18444)
+  
 ------------------------------------------------------------------
 
 <br>
