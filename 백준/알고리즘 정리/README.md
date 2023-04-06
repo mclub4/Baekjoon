@@ -15,6 +15,7 @@
   - [진법 변환](https://blog.naver.com/icbanq/221727893563)
   - [2의 보수](https://life-with-coding.tistory.com/298)
   - [오버로딩 & 오버라이딩](https://hyoje420.tistory.com/14)
+  - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
   - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
   - [동시성](https://spacebike.tistory.com/22)
 
@@ -431,6 +432,18 @@
 
 - #### 응용 문제
 
+### - 투포인터/슬라이딩 윈도
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+
 ### - CCW/선분 교차
 
 - #### 알고리즘 설명
@@ -446,14 +459,15 @@
   - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
 
 - #### 응용 문제
-
+  
+  - [[골드5] 다각형의 면적](https://www.acmicpc.net/problem/2166)
   - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
   - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
   - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
   - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
   - [[플레3] 선분의 교차3](https://www.acmicpc.net/problem/20149)
 
-### - 다익스트라 알고리즘 (최단 경로) 
+### - 다익스트라 알고리즘/밸만-포드 알고리 (최단 경로) 
 
 - #### 알고리즘 설명
 
@@ -464,26 +478,6 @@
   - 
 
 - #### 응용 문제
-
-### - 최소 스패닝 트리 (MST)
-
-- #### 알고리즘 설명
-
-  - [크루스칼 알고리즘](https://4legs-study.tistory.com/111)
-  - [프림 알고리즘](https://4legs-study.tistory.com/112)
-
-- #### 기본 문제
-
-  - [[골드4] 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
-
-- #### 응용 문제
- 
-  - [[골드4] 네트워크 연결](https://www.acmicpc.net/problem/1922)
-  - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
-  - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
-  - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
-  - [[골드3] 학교 탐방하기](https://www.acmicpc.net/problem/13418)
-  - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887)
 
 ### - 분리 집합 (유니온 & 파인드)
 
@@ -504,6 +498,26 @@
   - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195)
   - [[골드2] 공항](https://www.acmicpc.net/problem/10775)
   - [[플레5] 네트워크 연결](https://www.acmicpc.net/problem/3780)
+
+### - 최소 스패닝 트리 (MST)
+
+- #### 알고리즘 설명
+
+  - [크루스칼 알고리즘](https://4legs-study.tistory.com/111)
+  - [프림 알고리즘](https://4legs-study.tistory.com/112)
+
+- #### 기본 문제
+
+  - [[골드4] 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
+
+- #### 응용 문제
+ 
+  - [[골드4] 네트워크 연결](https://www.acmicpc.net/problem/1922)
+  - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
+  - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
+  - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
+  - [[골드3] 학교 탐방하기](https://www.acmicpc.net/problem/13418)
+  - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887)
 
 ### - 위상 정렬
 
