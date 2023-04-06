@@ -6,12 +6,16 @@
 
 ## <기초>
 
-### - 시간 복잡도
+### - 컴퓨터
 
 - #### 설명
 
-  - [시간 복잡도](https://bblackscene21.tistory.com/7)
   - [PS의 기초](https://anz1217.tistory.com/147)
+  - [시간 복잡도](https://bblackscene21.tistory.com/7)
+  - [진법 변환](https://blog.naver.com/icbanq/221727893563)
+  - [2의 보수](https://life-with-coding.tistory.com/298)
+  - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
+  - [동시성](https://spacebike.tistory.com/22)
 
 ### - 개발 환경
 
@@ -30,6 +34,13 @@
   - [CLion WSL 설정](https://nnnlog.tistory.com/54)
   - [PyCharm (Python)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
   - [Jetbrains IDE 학생 라이센스 등록](https://www.jetbrains.com/ko-kr/community/education/#students)
+
+### - C++
+
+- #### 설명
+
+  
+  
 
 ## < 브론즈 >
 
