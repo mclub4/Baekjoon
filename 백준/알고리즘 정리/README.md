@@ -416,7 +416,7 @@
 
 <br>
 
-# 📌 < DP >
+# 📌 < DP/분할  >
 
 ### - 동적 계획법 (DP)
 
@@ -446,6 +446,7 @@
   - [[골드2] 로봇 조종하기](https://www.acmicpc.net/problem/2169)
   - [[골드1] 방법을 출력하지 않는 숫자 맞추기](https://www.acmicpc.net/problem/13392)
   - [[플레5] 숫자 맞추기](https://www.acmicpc.net/problem/2494)
+  - [[플레5] 연세워터파크](https://www.acmicpc.net/problem/15678)
   - [[플레4] 경찰차](https://www.acmicpc.net/problem/2618)
   - [[플레1] 탈옥](https://www.acmicpc.net/problem/13261)
 
