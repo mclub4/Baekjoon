@@ -24,7 +24,10 @@
 
 - #### 설명
 
-  - 
+  - [VS Code (통합 개발 IDE)](https://code.visualstudio.com/)
+  - [InteeliJ (Java, Kotlin)](https://www.jetbrains.com/ko-kr/idea/download/#section=windows)
+  - [CLion (C++)](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960744627&term=clion&content=489240779909&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJ3eyp3YRm7c2KZOLPlZ0CJYdXOnQE-fcLTU_Mx0xwzzDGrY8b-T2gaAgc2EALw_wcB)
+  - [Jetbrains IDE 학생 라이센스 등록](https://www.jetbrains.com/ko-kr/community/education/#students)
 
 ## < 브론즈 >
 
