@@ -18,16 +18,17 @@
 - #### 설명
 
   - [WSL](https://melonicedlatte.com/2020/07/05/200400.html)
-  - [CLion WSL 설정](https://nnnlog.tistory.com/54)
   
 ### - IDE
 
 - #### 설명
 
   - [VS Code (통합 개발 IDE)](https://code.visualstudio.com/)
+  - [Vs Code 단축키](https://www.youtube.com/watch?v=mh-0twurNRE&t=172s&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
   - [IntelliJ (Java, Kotlin)](https://www.jetbrains.com/ko-kr/idea/download/#section=windows)
   - [CLion (C++)](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960744627&term=clion&content=489240779909&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJ3eyp3YRm7c2KZOLPlZ0CJYdXOnQE-fcLTU_Mx0xwzzDGrY8b-T2gaAgc2EALw_wcB)
-  - [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+  - [CLion WSL 설정](https://nnnlog.tistory.com/54)
+  - [PyCharm (Python)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
   - [Jetbrains IDE 학생 라이센스 등록](https://www.jetbrains.com/ko-kr/community/education/#students)
 
 ## < 브론즈 >
