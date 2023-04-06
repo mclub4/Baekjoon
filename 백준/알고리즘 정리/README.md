@@ -39,11 +39,14 @@
 
 - #### 설명
 
+  - [C++ https://anz1217.tistory.com/22
+
 ### - Java
 
 - #### 설명
 
   - [Comparator](https://lookingfor.tistory.com/entry/%EC%9E%90%EB%B0%94-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B9%84%EA%B5%90-%ED%95%A8%EC%88%98-compare-compareTo)
+  - [Long보다 큰 수 비교하기 (BigInteger)](https://coding-factory.tistory.com/604)
   
 ## < 브론즈 >
 
