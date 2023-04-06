@@ -13,6 +13,19 @@
   - [시간 복잡도](https://bblackscene21.tistory.com/7)
   - [PS의 기초](https://anz1217.tistory.com/147)
 
+### - 개발 환경
+
+- #### 설명
+
+  - [WSL](https://melonicedlatte.com/2020/07/05/200400.html)
+  - [CLion WSL 설정](https://nnnlog.tistory.com/54)
+  
+### - IDE
+
+- #### 설명
+
+  - 
+
 ## < 브론즈 >
 
 ### - 약수 구하기
