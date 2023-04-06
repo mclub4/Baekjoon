@@ -4,7 +4,7 @@
 
 <br>
 
-# 📌 <기초>
+# 📌 <기본 >
 
 ### - 컴퓨터
 
@@ -74,6 +74,32 @@
   - [AtCoder](https://atcoder.jp/)
   - [LeetCode](https://leetcode.com/)
   
+<br>
+
+-----------------------------------------------
+
+<br>
+
+# 📌 < 기초 >
+
+##[ 실버 ]
+
+### - 재귀
+
+- #### 알고리즘 설명
+
+  - [재귀](https://medium.com/@sunnkis/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9E%AC%EA%B7%80-8d96633be4cd)
+
+- #### 기본 문제
+
+  - [[실버5] 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
+- #### 응용 문제
+ 
+  - [[실버1] 하노이탑 이동 순서](https://www.acmicpc.net/problem/11729)
+  - [[골드5] 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+  - [[골드2] 하노이탑](https://www.acmicpc.net/problem/2270)
+  - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
+
 <br>
 
 -----------------------------------------------
@@ -274,13 +300,126 @@
   - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
   - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 
+## 
+
+### - 분리 집합 (유니온 & 파인드)
+
+- #### 알고리즘 설명
+
+  - [분리 집합](https://4legs-study.tistory.com/94?category=886581)
+
+- #### 기본 문제
+
+  - [[골드5] 집합의 표현](https://www.acmicpc.net/problem/1717)
+
+- #### 응용 문제
+  
+  - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976)
+  - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040)
+  - [[골드4] 거짓말](https://www.acmicpc.net/problem/1043)
+  - [[골드4] 친구비](https://www.acmicpc.net/problem/16562)
+  - [[골드3] 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
+  - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195)
+  - [[골드2] 공항](https://www.acmicpc.net/problem/10775)
+  - [[골드1] 통신말 분할](https://www.acmicpc.net/problem/17398)
+  - [[플레5] 네트워크 연결](https://www.acmicpc.net/problem/3780)
+  - [[플레3] 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
+
+### - 최소 스패닝 트리 (MST)
+
+- #### 알고리즘 설명
+
+  - [크루스칼 알고리즘](https://4legs-study.tistory.com/111)
+  - [프림 알고리즘](https://4legs-study.tistory.com/112)
+
+- #### 기본 문제
+
+  - [[골드4] 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
+
+- #### 응용 문제
+ 
+  - [[골드4] 네트워크 연결](https://www.acmicpc.net/problem/1922)
+  - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
+  - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
+  - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
+  - [[골드3] 우주신과의 교감](https://www.acmicpc.net/problem/1774)
+  - [[골드3] 학교 탐방하기](https://www.acmicpc.net/problem/13418)
+  - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887)
+
+### - 위상 정렬
+
+- #### 알고리즘 설명
+
+  - [위상정렬](https://4legs-study.tistory.com/89)
+
+- #### 기본 문제
+
+  - [[골드3] 줄 세우기](https://www.acmicpc.net/problem/2252)
+
+- #### 응용 문제
+
+  - [[골드3] ACM craft](https://www.acmicpc.net/problem/1005)
+  - [[골드3] 게임 개발](https://www.acmicpc.net/problem/1516)
+  - [[골드3] 음악 프로그램](https://www.acmicpc.net/problem/2623)
+  - [[골드2] 문제집](https://www.acmicpc.net/problem/1766)
+  - [[골드1] 최종 순위](https://www.acmicpc.net/problem/3665)
+
+### - 다익스트라 알고리즘/밸만-포드 알고리 (최단 경로) 
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
+  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
+
+- #### 응용 문제
+
+### - 최소 공통 조상 (LCA)
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+
+### - 세그먼트트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+
+### - 외판원 순회
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - [[골드1] 외판원 순회](https://www.acmicpc.net/problem/2098)
+
+- #### 응용 문제
+
 <br>
 
 ------------------------------------------------------------------
 
 <br>
 
-# 📌 < 문제 해결 및 유명한 문제 유형 >
+# 📌 < DP >
 
 ### - 브루트포스/백트래킹
 
@@ -307,22 +446,6 @@
   - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
   - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
   
-### - 재귀
-
-- #### 알고리즘 설명
-
-  - [재귀](https://medium.com/@sunnkis/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9E%AC%EA%B7%80-8d96633be4cd)
-
-- #### 기본 문제
-
-  - [[실버5] 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
-- #### 응용 문제
- 
-  - [[실버1] 하노이탑 이동 순서](https://www.acmicpc.net/problem/11729)
-  - [[골드5] 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-  - [[골드2] 하노이탑](https://www.acmicpc.net/problem/2270)
-  - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
-
 ### - 그리디 알고리즘
 
 - #### 알고리즘 설명
@@ -540,122 +663,6 @@
   - [[골드2] 국민 랜드](https://www.acmicpc.net/problem/13421)
   - [[플레5] 전봇대](https://www.acmicpc.net/problem/8986)
   - [[다이아5] 먼 별](https://www.acmicpc.net/problem/13310)
-
--------------------------------------
-## [ 그래프 이론 ]
-
-### - 분리 집합 (유니온 & 파인드)
-
-- #### 알고리즘 설명
-
-  - [분리 집합](https://4legs-study.tistory.com/94?category=886581)
-
-- #### 기본 문제
-
-  - [[골드5] 집합의 표현](https://www.acmicpc.net/problem/1717)
-
-- #### 응용 문제
-  
-  - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976)
-  - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040)
-  - [[골드4] 거짓말](https://www.acmicpc.net/problem/1043)
-  - [[골드4] 친구비](https://www.acmicpc.net/problem/16562)
-  - [[골드3] 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
-  - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195)
-  - [[골드2] 공항](https://www.acmicpc.net/problem/10775)
-  - [[골드1] 통신말 분할](https://www.acmicpc.net/problem/17398)
-  - [[플레5] 네트워크 연결](https://www.acmicpc.net/problem/3780)
-  - [[플레3] 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
-
-### - 최소 스패닝 트리 (MST)
-
-- #### 알고리즘 설명
-
-  - [크루스칼 알고리즘](https://4legs-study.tistory.com/111)
-  - [프림 알고리즘](https://4legs-study.tistory.com/112)
-
-- #### 기본 문제
-
-  - [[골드4] 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
-
-- #### 응용 문제
- 
-  - [[골드4] 네트워크 연결](https://www.acmicpc.net/problem/1922)
-  - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
-  - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
-  - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
-  - [[골드3] 우주신과의 교감](https://www.acmicpc.net/problem/1774)
-  - [[골드3] 학교 탐방하기](https://www.acmicpc.net/problem/13418)
-  - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887)
-
-### - 위상 정렬
-
-- #### 알고리즘 설명
-
-  - [위상정렬](https://4legs-study.tistory.com/89)
-
-- #### 기본 문제
-
-  - [[골드3] 줄 세우기](https://www.acmicpc.net/problem/2252)
-
-- #### 응용 문제
-
-  - [[골드3] ACM craft](https://www.acmicpc.net/problem/1005)
-  - [[골드3] 게임 개발](https://www.acmicpc.net/problem/1516)
-  - [[골드3] 음악 프로그램](https://www.acmicpc.net/problem/2623)
-  - [[골드2] 문제집](https://www.acmicpc.net/problem/1766)
-  - [[골드1] 최종 순위](https://www.acmicpc.net/problem/3665)
-
-### - 다익스트라 알고리즘/밸만-포드 알고리 (최단 경로) 
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
-  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
-
-- #### 응용 문제
-
-### - 최소 공통 조상 (LCA)
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - 
-
-- #### 응용 문제
-
-### - 세그먼트트리
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - 
-
-- #### 응용 문제
-
-### - 외판원 순회
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - [[골드1] 외판원 순회](https://www.acmicpc.net/problem/2098)
-
-- #### 응용 문제
-
--------------------------------------
 
 <br>
 
