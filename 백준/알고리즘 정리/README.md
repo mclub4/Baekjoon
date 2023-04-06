@@ -31,6 +31,7 @@
   - [VS Code (통합 개발 IDE)](https://code.visualstudio.com/)
   - [Vs Code 단축키](https://www.youtube.com/watch?v=mh-0twurNRE&t=172s&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
   - [IntelliJ (Java, Kotlin)](https://www.jetbrains.com/ko-kr/idea/download/#section=windows)
+  - [IntelliJ 자동 import](https://tychejin.tistory.com/340)
   - [CLion (C++)](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960744627&term=clion&content=489240779909&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJ3eyp3YRm7c2KZOLPlZ0CJYdXOnQE-fcLTU_Mx0xwzzDGrY8b-T2gaAgc2EALw_wcB)
   - [CLion WSL 설정](https://nnnlog.tistory.com/54)
   - [PyCharm (Python)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
