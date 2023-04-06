@@ -444,44 +444,7 @@
 
 - #### 응용 문제
 
-### - CCW/선분 교차
-
-- #### 알고리즘 설명
-
-  - [CCW](https://snowfleur.tistory.com/98)
-  - [신발끈 공식](https://omath.tistory.com/105)
-  - [넓이에 따른 CCW](https://www.acmicpc.net/blog/view/27)
-  - [선분 교차](https://gaussian37.github.io/math-algorithm-line_intersection/)
-
-- #### 기본 문제
-
-  - [[골드5] CCW](https://www.acmicpc.net/problem/11758)
-  - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
-
-- #### 응용 문제
-  
-  - [[골드5] 다각형의 면적](https://www.acmicpc.net/problem/2166)
-  - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
-  - [[골드2] 두 원](https://www.acmicpc.net/problem/7869)
-  - [[골드1] 원뿔 좌표계상의 거리](https://www.acmicpc.net/problem/1798)
-  - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
-  - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
-  - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
-  - [[플레4] 석양이 진다..](https://www.acmicpc.net/problem/13352)
-  - [[플레3] 선분의 교차3](https://www.acmicpc.net/problem/20149)
-
-### - 다익스트라 알고리즘/밸만-포드 알고리 (최단 경로) 
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
-  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
-
-- #### 응용 문제
+------그래프 이론 -----
 
 ### - 분리 집합 (유니온 & 파인드)
 
@@ -545,7 +508,20 @@
   - [[골드2] 문제집](https://www.acmicpc.net/problem/1766)
   - [[골드1] 최종 순위](https://www.acmicpc.net/problem/3665)
 
-### - 최소 공통 조상
+### - 다익스트라 알고리즘/밸만-포드 알고리 (최단 경로) 
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
+  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
+
+- #### 응용 문제
+
+### - 최소 공통 조상 (LCA)
 
 - #### 알고리즘 설명
 
@@ -557,7 +533,7 @@
 
 - #### 응용 문제
 
-### - 트라이
+### - 세그먼트트리
 
 - #### 알고리즘 설명
 
@@ -581,7 +557,9 @@
 
 - #### 응용 문제
 
-### - 스위칭
+----------------------------
+
+### - 스위핑
 
 - #### 알고리즘 설명
 
@@ -594,6 +572,32 @@
 - #### 응용 문제
 
   - [[골드3] 수상 택시](https://www.acmicpc.net/problem/2836)
+
+### - CCW/선분 교차
+
+- #### 알고리즘 설명
+
+  - [CCW](https://snowfleur.tistory.com/98)
+  - [신발끈 공식](https://omath.tistory.com/105)
+  - [넓이에 따른 CCW](https://www.acmicpc.net/blog/view/27)
+  - [선분 교차](https://gaussian37.github.io/math-algorithm-line_intersection/)
+
+- #### 기본 문제
+
+  - [[골드5] CCW](https://www.acmicpc.net/problem/11758)
+  - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
+
+- #### 응용 문제
+  
+  - [[골드5] 다각형의 면적](https://www.acmicpc.net/problem/2166)
+  - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
+  - [[골드2] 두 원](https://www.acmicpc.net/problem/7869)
+  - [[골드1] 원뿔 좌표계상의 거리](https://www.acmicpc.net/problem/1798)
+  - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
+  - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
+  - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
+  - [[플레4] 석양이 진다..](https://www.acmicpc.net/problem/13352)
+  - [[플레3] 선분의 교차3](https://www.acmicpc.net/problem/20149)
 
 ### - 삼분 탐색
 
@@ -611,6 +615,18 @@
   - [[골드2] 국민 랜드](https://www.acmicpc.net/problem/13421)
   - [[플레5] 전봇대](https://www.acmicpc.net/problem/8986)
   - [[다이아5] 먼 별](https://www.acmicpc.net/problem/13310)
+
+### - 트라이
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
 
 <br>
 
