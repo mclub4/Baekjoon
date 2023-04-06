@@ -74,7 +74,8 @@
   - [AtCoder](https://atcoder.jp/)
   - [LeetCode](https://leetcode.com/)
   
-  
+<br>
+
 # 📌 < 기초 정수론 >
 
 ## [ 브론즈 ]
@@ -117,6 +118,8 @@
   - [[골드5] 공약수](https://www.acmicpc.net/problem/2436)
   - [[골드2] 최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476)
   
+<br>  
+  
 ## [ 실버 ]
 
 ### - 소수 판별 (에라토스테네스의 체)
@@ -135,6 +138,9 @@
   - [[실버1] 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
   - [[골드5] 신기한 소수](https://www.acmicpc.net/problem/2023)
   - [[골드1] 제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)
+
+<br>
+------------------------------------------------------------------
 
 # 📌 < 자료구조 >
 
@@ -181,6 +187,85 @@
   - [[실버1] 트럭](https://www.acmicpc.net/problem/13335)
   - [[골드5] AC](https://www.acmicpc.net/problem/5430)
   - [[골드4] 뱀](https://www.acmicpc.net/problem/3190)
+
+### - 우선순위 큐/힙
+
+- #### 알고리즘 설명
+
+  - [우선 순위 큐](https://suyeon96.tistory.com/31)
+
+- #### 기본 문제
+
+  - [[실버2] 최소힙](https://www.acmicpc.net/problem/1927)
+  - [[실버2] 최대힙](https://www.acmicpc.net/problem/11279)
+
+- #### 응용 문제
+ 
+  - [[실버1] 절대값 힙](https://www.acmicpc.net/problem/11286)
+  - [[골드4] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+
+### - 그래프와 순회 (DFS와 BFS)
+
+- #### 알고리즘 설명
+
+  - [그래프](https://leejinseop.tistory.com/43)
+  - [DFS와 BFS](https://velog.io/@lucky-korma/DFS-BFS%EC%9D%98-%EC%84%A4%EB%AA%85-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+
+- #### 기본 문제
+
+  - [[실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260)
+
+- #### 응용 문제
+
+  - [[실버3] 바이러스](https://www.acmicpc.net/problem/2606)
+  - [[실버2] 유기농 배추](https://www.acmicpc.net/problem/1012)
+  - [[실버2] 섬의 개수](https://www.acmicpc.net/problem/4963)
+  - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178)
+  - [[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697)
+  - [[실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562)
+  - [[실버1] 안전영역](https://www.acmicpc.net/problem/2468)
+  - [[골드5] 적록색약](https://www.acmicpc.net/problem/10026)
+  - [[골드5] 토마토](https://www.acmicpc.net/problem/7576)
+  - [[골드5] 토마토 (3차원)](https://www.acmicpc.net/problem/7569)
+  - [[골드5] 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+  - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
+  - [[골드4] 알파벳](https://www.acmicpc.net/problem/1987)
+  - [[골드4] 테트리미노](https://www.acmicpc.net/problem/14500)
+  - [[골드3] 치즈](https://www.acmicpc.net/problem/2638)
+  - [[골드3] 성곽](https://www.acmicpc.net/problem/2234)
+  - [[골드3] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+  - [[골드3] 아기상어](https://www.acmicpc.net/problem/16236)
+  - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
+
+### - 트리
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - 
+
+- #### 응용 문제
+
+### - 해싱
+
+- #### 알고리즘 설명
+
+  - [해싱](https://ratsgo.github.io/data%20structure&algorithm/2017/10/25/hash/)
+  - [딕셔너리 (파이썬)](https://blockdmask.tistory.com/450)
+
+- #### 기본 문제
+
+  - [[실버4] 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+
+- #### 응용 문제
+
+  - [[실버4] 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+  - [[실버4] 듣보잡](https://www.acmicpc.net/problem/1764)
+  - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
+  - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 
 ### - 브루트포스/백트래킹
 
@@ -325,86 +410,7 @@
   - 
 
 - #### 응용 문제
-
-### - 우선순위 큐/힙
-
-- #### 알고리즘 설명
-
-  - [우선 순위 큐](https://suyeon96.tistory.com/31)
-
-- #### 기본 문제
-
-  - [[실버2] 최소힙](https://www.acmicpc.net/problem/1927)
-  - [[실버2] 최대힙](https://www.acmicpc.net/problem/11279)
-
-- #### 응용 문제
  
-  - [[실버1] 절대값 힙](https://www.acmicpc.net/problem/11286)
-  - [[골드4] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
- 
-### - 그래프와 순회 (DFS와 BFS)
-
-- #### 알고리즘 설명
-
-  - [그래프](https://leejinseop.tistory.com/43)
-  - [DFS와 BFS](https://velog.io/@lucky-korma/DFS-BFS%EC%9D%98-%EC%84%A4%EB%AA%85-%EC%B0%A8%EC%9D%B4%EC%A0%90)
-
-- #### 기본 문제
-
-  - [[실버2] DFS와 BFS](https://www.acmicpc.net/problem/1260)
-
-- #### 응용 문제
-
-  - [[실버3] 바이러스](https://www.acmicpc.net/problem/2606)
-  - [[실버2] 유기농 배추](https://www.acmicpc.net/problem/1012)
-  - [[실버2] 섬의 개수](https://www.acmicpc.net/problem/4963)
-  - [[실버1] 미로 탐색](https://www.acmicpc.net/problem/2178)
-  - [[실버1] 숨바꼭질](https://www.acmicpc.net/problem/1697)
-  - [[실버1] 나이트의 이동](https://www.acmicpc.net/problem/7562)
-  - [[실버1] 안전영역](https://www.acmicpc.net/problem/2468)
-  - [[골드5] 적록색약](https://www.acmicpc.net/problem/10026)
-  - [[골드5] 토마토](https://www.acmicpc.net/problem/7576)
-  - [[골드5] 토마토 (3차원)](https://www.acmicpc.net/problem/7569)
-  - [[골드5] 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
-  - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
-  - [[골드4] 알파벳](https://www.acmicpc.net/problem/1987)
-  - [[골드4] 테트리미노](https://www.acmicpc.net/problem/14500)
-  - [[골드3] 치즈](https://www.acmicpc.net/problem/2638)
-  - [[골드3] 성곽](https://www.acmicpc.net/problem/2234)
-  - [[골드3] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-  - [[골드3] 아기상어](https://www.acmicpc.net/problem/16236)
-  - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
- 
-### - 트리
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - 
-
-- #### 응용 문제
-
-### - 해싱
-
-- #### 알고리즘 설명
-
-  - [해싱](https://ratsgo.github.io/data%20structure&algorithm/2017/10/25/hash/)
-  - [딕셔너리 (파이썬)](https://blockdmask.tistory.com/450)
-
-- #### 기본 문제
-
-  - [[실버4] 숫자 카드 2](https://www.acmicpc.net/problem/10816)
-
-- #### 응용 문제
-
-  - [[실버4] 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
-  - [[실버4] 듣보잡](https://www.acmicpc.net/problem/1764)
-  - [[실버3] 수강신청](https://www.acmicpc.net/problem/13414)
-  - [[실버3] 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
-
 <br>
 
 # 📌 < 골드 >
