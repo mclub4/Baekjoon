@@ -485,6 +485,7 @@
   - [[실버1] 포도주 시식](https://www.acmicpc.net/problem/2156)
   - [[실버1] RGB 거리](https://www.acmicpc.net/problem/1149)
   - [[실버1] 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+  - [[골드5] 전깃줄](https://www.acmicpc.net/problem/2565)
   - [[골드4] RGB 거리 2](https://www.acmicpc.net/problem/17404)
   - [[골드3] 파일 합치기](https://www.acmicpc.net/problem/11066)
   - [[골드3] 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
@@ -567,8 +568,15 @@
 
 - #### 응용 문제
 
-  - [[골드5] 호텔](https://www.acmicpc.net/problem/1106) 
+  - [[골드5] 호텔](https://www.acmicpc.net/problem/1106)
+  - [[골드5] 동전](https://www.acmicpc.net/problem/9084)
+  - [[골드5] Conins](https://www.acmicpc.net/problem/3067)
+  - [[골드5] 벼락치기](https://www.acmicpc.net/problem/14728)
+  - [[골드5] 수강 과목](https://www.acmicpc.net/problem/17845)
+  - [[골드4] 사탕 가게](https://www.acmicpc.net/problem/4781) 
+  - [[골드3] 앱](https://www.acmicpc.net/problem/7579)
   - [[골드3] 양팔저울](https://www.acmicpc.net/problem/2629)
+  - [[플레4] 평범한 배낭2](https://www.acmicpc.net/problem/12920)
 
 ### - LCS
 
