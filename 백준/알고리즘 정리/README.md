@@ -115,6 +115,48 @@
   - [[골드2] 하노이탑](https://www.acmicpc.net/problem/2270)
   - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
 
+### - 브루트포스/백트래킹
+
+- #### 알고리즘 설명
+
+  - [브루트포스](https://foreverhappiness.tistory.com/104)
+  - [백트래킹](https://chanhuiseok.github.io/posts/algo-23/)
+
+- #### 기본 문제
+
+  - [[실버4] 설탕배달](https://www.acmicpc.net/problem/2839)
+  - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649)
+
+- #### 응용 문제
+ 
+  - [[실버4] 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+  - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
+  - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
+  - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
+  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
+  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
+  - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
+  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
+  
+### - 그리디 알고리즘
+
+- #### 알고리즘 설명
+
+  - [그리디](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+
+- #### 기본 문제
+
+  - [[실버4] 동전 0](https://www.acmicpc.net/problem/11047)
+
+- #### 응용 문제
+ 
+  - [[실버3] 주유소](https://www.acmicpc.net/problem/13305)
+  - [[실버1] 회의실 배정](https://www.acmicpc.net/problem/1931)
+  - [[골드5] 주사위](https://www.acmicpc.net/problem/1041)
+  - [[골드2] 보석 도둑](https://www.acmicpc.net/problem/1202)
+
 <br>
 
 -----------------------------------------------
@@ -385,48 +427,6 @@
 
 # 📌 < DP >
 
-### - 브루트포스/백트래킹
-
-- #### 알고리즘 설명
-
-  - [브루트포스](https://foreverhappiness.tistory.com/104)
-  - [백트래킹](https://chanhuiseok.github.io/posts/algo-23/)
-
-- #### 기본 문제
-
-  - [[실버4] 설탕배달](https://www.acmicpc.net/problem/2839)
-  - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649)
-
-- #### 응용 문제
- 
-  - [[실버4] 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-  - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
-  - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
-  - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-  - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
-  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
-  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
-  - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
-  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
-  - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
-  
-### - 그리디 알고리즘
-
-- #### 알고리즘 설명
-
-  - [그리디](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
-
-- #### 기본 문제
-
-  - [[실버4] 동전 0](https://www.acmicpc.net/problem/11047)
-
-- #### 응용 문제
- 
-  - [[실버3] 주유소](https://www.acmicpc.net/problem/13305)
-  - [[실버1] 회의실 배정](https://www.acmicpc.net/problem/1931)
-  - [[골드5] 주사위](https://www.acmicpc.net/problem/1041)
-  - [[골드2] 보석 도둑](https://www.acmicpc.net/problem/1202)
-
 ### - 동적 계획법 (DP)
 
 - #### 알고리즘 설명
@@ -500,7 +500,7 @@
  
   - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
 
-### - 완전 탐색/이분 탐색/삼분 탐색
+### - 이분 탐색
 
 - #### 알고리즘 설명
 
