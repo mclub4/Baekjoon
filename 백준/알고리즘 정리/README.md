@@ -336,8 +336,8 @@
 - #### 응용 문제
  
   - [[실버1] 절대값 힙](https://www.acmicpc.net/problem/11286)
+  - [[골드4] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
  
-
 ### - 그래프와 순회 (DFS와 BFS)
 
 - #### 알고리즘 설명
@@ -440,7 +440,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드5] 두 용액](https://www.acmicpc.net/problem/2470)
 
 - #### 응용 문제
 
@@ -475,7 +475,8 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
+  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
 
 - #### 응용 문제
 
