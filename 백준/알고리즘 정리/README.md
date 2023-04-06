@@ -84,16 +84,32 @@
 
 ## [ 브론즈 ]
 
-### - 완전 탐색
+### - 브루트포스/백트래킹
 
 - #### 알고리즘 설명
 
-  - [완전 탐색](https://anz1217.tistory.com/13)
+  - [브루트포스](https://foreverhappiness.tistory.com/104)
+  - [백트래킹](https://chanhuiseok.github.io/posts/algo-23/)
 
 - #### 기본 문제
-
+  
   - [[브론즈1] 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+  - [[실버4] 설탕배달](https://www.acmicpc.net/problem/2839)
+  - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649)
+
 - #### 응용 문제
+ 
+  - [[실버4] 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+  - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
+  - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
+  - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
+  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
+  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
+  - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
+  - [[골드4] 사격 연습](https://www.acmicpc.net/problem/27958)
+  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
  
 
 
@@ -114,31 +130,6 @@
   - [[골드5] 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
   - [[골드2] 하노이탑](https://www.acmicpc.net/problem/2270)
   - [[플레5] 샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601)
-
-### - 브루트포스/백트래킹
-
-- #### 알고리즘 설명
-
-  - [브루트포스](https://foreverhappiness.tistory.com/104)
-  - [백트래킹](https://chanhuiseok.github.io/posts/algo-23/)
-
-- #### 기본 문제
-
-  - [[실버4] 설탕배달](https://www.acmicpc.net/problem/2839)
-  - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649)
-
-- #### 응용 문제
- 
-  - [[실버4] 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-  - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
-  - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
-  - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-  - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
-  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
-  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
-  - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
-  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
-  - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
   
 ### - 그리디 알고리즘
 
