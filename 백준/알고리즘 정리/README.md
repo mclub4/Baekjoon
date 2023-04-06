@@ -420,6 +420,19 @@
 
 - #### 응용 문제
 
+### - 폴로이드-위셜 알고리즘 (모든 최단 경로) 
+
+- #### 알고리즘 설명
+
+  - [폴로이드-위셜](https://velog.io/@kimdukbae/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Floyd-Warshall-Algorithm)
+
+- #### 기본 문제
+
+  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
+  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
+
+- #### 응용 문제
+
 ### - 최소 공통 조상 (LCA)
 
 - #### 알고리즘 설명
