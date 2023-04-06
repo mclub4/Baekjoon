@@ -462,9 +462,12 @@
   
   - [[골드5] 다각형의 면적](https://www.acmicpc.net/problem/2166)
   - [[골드2] 선분의 교차2](https://www.acmicpc.net/problem/17387)
+  - [[골드2] 두 원](https://www.acmicpc.net/problem/7869)
+  - [[골드1] 원뿔 좌표계상의 거리](https://www.acmicpc.net/problem/1798)
   - [[골드1] 교차](https://www.acmicpc.net/problem/6439)
   - [[골드1] 대피소 찾기](https://www.acmicpc.net/problem/16491)
   - [[플레5] 선분 그룹](https://www.acmicpc.net/problem/2162)
+  - [[플레4] 석양이 진다..](https://www.acmicpc.net/problem/13352)
   - [[플레3] 선분의 교차3](https://www.acmicpc.net/problem/20149)
 
 ### - 다익스트라 알고리즘/밸만-포드 알고리 (최단 경로) 
@@ -495,10 +498,13 @@
   - [[골드4] 여행 가자](https://www.acmicpc.net/problem/1976)
   - [[골드4] 사이클 게임](https://www.acmicpc.net/problem/20040)
   - [[골드4] 거짓말](https://www.acmicpc.net/problem/1043)
+  - [[골드4] 친구비](https://www.acmicpc.net/problem/16562)
   - [[골드3] 피리 부는 사나이](https://www.acmicpc.net/problem/16724)
   - [[골드2] 친구 네트워크](https://www.acmicpc.net/problem/4195)
   - [[골드2] 공항](https://www.acmicpc.net/problem/10775)
+  - [[골드1] 통신말 분할](https://www.acmicpc.net/problem/17398)
   - [[플레5] 네트워크 연결](https://www.acmicpc.net/problem/3780)
+  - [[플레3] 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
 
 ### - 최소 스패닝 트리 (MST)
 
@@ -517,6 +523,7 @@
   - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
   - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
   - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
+  - [[골드3] 우주신과의 교감](https://www.acmicpc.net/problem/1774)
   - [[골드3] 학교 탐방하기](https://www.acmicpc.net/problem/13418)
   - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887)
 
@@ -533,7 +540,10 @@
 - #### 응용 문제
 
   - [[골드3] ACM craft](https://www.acmicpc.net/problem/1005)
+  - [[골드3] 게임 개발](https://www.acmicpc.net/problem/1516)
+  - [[골드3] 음악 프로그램](https://www.acmicpc.net/problem/2623)
   - [[골드2] 문제집](https://www.acmicpc.net/problem/1766)
+  - [[골드1] 최종 순위](https://www.acmicpc.net/problem/3665)
 
 ### - 최소 공통 조상
 
