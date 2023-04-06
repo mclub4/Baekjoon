@@ -234,6 +234,7 @@
   - [[실버1] 트럭](https://www.acmicpc.net/problem/13335)
   - [[골드5] AC](https://www.acmicpc.net/problem/5430)
   - [[골드4] 뱀](https://www.acmicpc.net/problem/3190)
+  - [[골드1] 정렬 게임](https://www.acmicpc.net/problem/13415)
 
 ### - 우선순위 큐/힙
 
@@ -1076,6 +1077,8 @@
   - [[골드5] 두 용액](https://www.acmicpc.net/problem/2470)
 
 - #### 응용 문제
+
+  - [[골드4] 도둑](https://www.acmicpc.net/problem/13422)
 
 <br>
 
