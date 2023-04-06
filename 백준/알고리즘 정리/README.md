@@ -39,7 +39,7 @@
 
 - #### 설명
 
-  - [C++ https://anz1217.tistory.com/22
+  - [C++ STL](https://anz1217.tistory.com/22)
 
 ### - Java
 
