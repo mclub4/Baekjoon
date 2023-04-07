@@ -321,7 +321,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드5] 이진 검색 트리](https://www.acmicpc.net/problem/5639)
 
 - #### 응용 문제
 
@@ -333,7 +333,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드1] 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 
 - #### 응용 문제
 
@@ -465,7 +465,12 @@
 
   - [[골드5] 숨바꼭질3](https://www.acmicpc.net/problem/13549)
   - [[골드4] 특정한 최단 경로](https://www.acmicpc.net/problem/1504)
+  - [[골드3] 웜홀](https://www.acmicpc.net/problem/1865)
   - [[골드2] 미확인 도착지](https://www.acmicpc.net/problem/9370)
+  - [[골드2] 골목길](https://www.acmicpc.net/problem/1738)
+  - [[플레5] 할로윈 묘지](https://www.acmicpc.net/problem/3860)
+  - [[플레5] KCM Travel](https://www.acmicpc.net/problem/10217)
+  - [[플레4] K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)
 
 ### - 폴로이드-위셜 알고리즘 (모든 최단 경로) 
 
@@ -480,6 +485,9 @@
 - #### 응용 문제
 
   - [[골드4] 운동](https://www.acmicpc.net/problem/1956)
+  - [[골드4] 서강 그라운드](https://www.acmicpc.net/problem/14938)
+  - [[골드4] 키 순서](https://www.acmicpc.net/problem/2458)
+  - [[골드2] 폴로이드 2](https://www.acmicpc.net/problem/11780)
 
 ### - 최소 공통 조상 (LCA)
 
@@ -489,7 +497,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드4] 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
 
 - #### 응용 문제
 
@@ -517,7 +525,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[플레4] 도시 왕복하기 1](https://www.acmicpc.net/problem/17412)
 
 - #### 응용 문제
 
@@ -530,7 +538,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[플레5] Strongly Connected Component](https://www.acmicpc.net/problem/2150)
 
 - #### 응용 문제
 
@@ -542,7 +550,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[플레4] 열혈강호4](https://www.acmicpc.net/problem/11378)
 
 - #### 응용 문제
 
@@ -685,7 +693,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드5] LCS](https://www.acmicpc.net/problem/9251)
 
 - #### 응용 문제
 
@@ -697,7 +705,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드2] 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
 
 - #### 응용 문제
 
@@ -834,7 +842,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[실버5] 행렬 곱셈](https://www.acmicpc.net/problem/2740)
 
 - #### 응용 문제
 
@@ -1009,7 +1017,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[골드3] 개미굴](https://www.acmicpc.net/problem/14725)
 
 - #### 응용 문제
 
@@ -1160,7 +1168,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[플레4] 님 게임 2](https://www.acmicpc.net/problem/11868)
 
 - #### 응용 문제
 
