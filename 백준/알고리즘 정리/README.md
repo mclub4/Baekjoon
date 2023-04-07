@@ -501,18 +501,6 @@
 
 - #### 응용 문제
 
-### - 외판원 순회
-
-- #### 알고리즘 설명
-
-  - 
-
-- #### 기본 문제
-
-  - [[골드1] 외판원 순회](https://www.acmicpc.net/problem/2098)
-
-- #### 응용 문제
-
 <br>
 
 ## [ 플레티넘 ]
@@ -570,8 +558,7 @@
 
   - [DP](https://hongjw1938.tistory.com/47)
   - [DP의 최적화](https://anz1217.tistory.com/130)
-  - [DP와 비트마스킹](https://anz1217.tistory.com/39)
-  - [골드의 "LCS" 문제랑 "냅색 문제"랑 연계됨](###--냅색-문제-배낭-문제)
+  - [LCS 문제랑 냅색 문제랑 연계됨](#--냅색-문제-배낭-문제)
 
 - #### 기본 문제
 
@@ -622,26 +609,35 @@
   - [[골드1] 스카이라인](https://www.acmicpc.net/problem/1933)
   - [[플레5] 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
   - [[플레5] 버블 소트](https://www.acmicpc.net/problem/1517)
- 
-### - 합병 정렬
-
-- #### 알고리즘 설명
-
-  - [분할 정복](https://anz1217.tistory.com/17)
-
-- #### 기본 문제
-
-  - 
-
-- #### 응용 문제
- 
-  - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
 
 ### - 비트 마스킹
 
 - #### 알고리즘 설명
 
-  - 
+  - [비트마스킹](https://rebro.kr/63)
+  - [DP와 비트마스킹](https://anz1217.tistory.com/39)
+  - [외판원 순회 문제랑 ](#--외판원-순회) 
+
+- #### 기본 문제
+
+  - [[브론즈4] 이진수 연산](https://www.acmicpc.net/problem/12813)
+  - [[실버5] 집합](https://www.acmicpc.net/problem/11723)
+
+- #### 응용 문제
+ 
+  - [[실버5] 막대기](https://www.acmicpc.net/problem/1094)
+  - [[실버1] 물병](https://www.acmicpc.net/problem/1052)
+  - [[골드4] 가르침](https://www.acmicpc.net/problem/1062)
+  - [[골드1] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
+  - [[골드1] 계단 수](https://www.acmicpc.net/problem/1562)
+  - [[플레5] 박성원](https://www.acmicpc.net/problem/1086)
+  - [[플레4] 컨닝](https://www.acmicpc.net/problem/1014)
+
+### - 합병 정렬
+
+- #### 알고리즘 설명
+
+  - [분할 정복](https://anz1217.tistory.com/17)
 
 - #### 기본 문제
 
@@ -714,6 +710,18 @@
 
 - #### 응용 문제
 
+### - 외판원 순회
+
+- #### 알고리즘 설명
+
+  - 
+
+- #### 기본 문제
+
+  - [[골드1] 외판원 순회](https://www.acmicpc.net/problem/2098)
+
+- #### 응용 문제
+
 <br>
 
 ## [ 플레티넘 ]
@@ -750,7 +758,7 @@
 
 - #### 응용 문제
 
-  - [[다이아5] 특공](https://www.acmicpc.net/problem/4008)
+  - [[다이아5] 특공대](https://www.acmicpc.net/problem/4008)
   - [[다이아4] 수열 나누기](https://www.acmicpc.net/problem/10067)
 
 ### - 분할 정복 최적화
