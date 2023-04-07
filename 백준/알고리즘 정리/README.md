@@ -117,7 +117,7 @@
 - #### 알고리즘 설명
 
   - [브루트포스](https://foreverhappiness.tistory.com/104)
-  - [백트래킹](https://chanhuiseok.github.io/posts/algo-23/)
+  - [백트래킹](https://fomaios.tistory.com/entry/Algorithm-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9Backtracking%EC%9D%B4%EB%9E%80)
 
 - #### 기본 문제
   
@@ -1033,7 +1033,8 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [정규 표현식](https://soooprmx.com/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95/)
+  - [정규 표현식 모음 요약](https://hamait.tistory.com/342)
 
 - #### 기본 문제
 
@@ -1048,7 +1049,7 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [트라이](https://velog.io/@kimdukbae/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8A%B8%EB%9D%BC%EC%9D%B4-Trie)
 
 - #### 기본 문제
 
@@ -1091,15 +1092,15 @@
 
 - #### 응용 문제
 
-### - Mannacher 알고리즘
+### - Manacher 알고리즘
 
 - #### 알고리즘 설명
 
-  - 
+  - [Manacher](https://anz1217.tistory.com/100)
 
 - #### 기본 문제
 
-  - 
+  - [[플레5] 가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275)
 
 - #### 응용 문제
 
