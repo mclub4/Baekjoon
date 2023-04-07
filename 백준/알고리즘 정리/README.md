@@ -502,6 +502,20 @@
 
 - #### 응용 문제
 
+### - 이분 그래프
+
+- #### 알고리즘 설명
+
+  - [이분 그래프](https://gmlwjd9405.github.io/2018/08/23/algorithm-bipartite-graph.html)
+  - [레드 블랙 트리](https://blogshine.tistory.com/102)
+  - [리눅스 커널에서 쓰이는 레드 블랙 트리 (참고용)](https://smile2x.tistory.com/36)
+
+- #### 기본 문제
+
+  - [[골드4] 이분 그래프](https://www.acmicpc.net/problem/1707)
+
+- #### 응용 문제
+
 <br>
 
 ## [ 플레티넘 ]
@@ -1144,7 +1158,7 @@
 
 - #### 기본 문제
 
-  - 
+  - [[실버5] 돌 게임](https://www.acmicpc.net/problem/9655)
 
 - #### 응용 문제
 
@@ -1170,7 +1184,8 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [투포인터](https://butter-shower.tistory.com/226)
+  - [슬라이딩 윈도우](https://velog.io/@zwon/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%9C%88%EB%8F%84%EC%9A%B0Sliding-Window)
 
 - #### 기본 문제
 
