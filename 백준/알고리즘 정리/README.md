@@ -571,7 +571,7 @@
   - [DP](https://hongjw1938.tistory.com/47)
   - [DP의 최적화](https://anz1217.tistory.com/130)
   - [DP와 비트마스킹](https://anz1217.tistory.com/39)
-  - 골드의 "LCS" 문제랑 "냅색 문제"랑 연계됨
+  - [골드의 "LCS" 문제랑 "냅색 문제"랑 연계됨](###--냅색-문제-배낭-문제)
 
 - #### 기본 문제
 
