@@ -559,6 +559,7 @@
   - [DP](https://hongjw1938.tistory.com/47)
   - [DP의 최적화](https://anz1217.tistory.com/130)
   - [LCS 문제랑 냅색 문제랑 연계됨](#--냅색-문제-배낭-문제)
+  - [컨벡스 헐 트릭과 연계됨](#--컨벡스-헐-트릭convex-hull-trick)
 
 - #### 기본 문제
 
@@ -593,6 +594,7 @@
 
   - [분할 정복](https://anz1217.tistory.com/17)
   - [분할 정복을 이용한 거듭제곱](https://velog.io/@expertinpyo/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A6%AC-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B1%B0%EB%93%AD%EC%A0%9C%EA%B3%B1)
+  - [L-트리미노 퍼즐, 최근접 점 쌍 찾기, 분할 정복의 최적화와 연계됨](#--L트리미노 퍼즐)
   
 - #### 기본 문제
 
@@ -616,7 +618,7 @@
 
   - [비트마스킹](https://rebro.kr/63)
   - [DP와 비트마스킹](https://anz1217.tistory.com/39)
-  - [외판원 순회 문제랑 ](#--외판원-순회) 
+  - [외판원 순회 문제랑 연계됨](#--외판원-순회) 
 
 - #### 기본 문제
 
