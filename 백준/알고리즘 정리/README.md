@@ -972,9 +972,14 @@
 - #### 알고리즘 설명
 
   - [CCW](https://snowfleur.tistory.com/98)
-  - [신발끈 공식](https://omath.tistory.com/105)
+  - [신발끈 공식](https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%B0%9C%EB%81%88_%EA%B3%B5%EC%8B%9D)
   - [넓이에 따른 CCW](https://www.acmicpc.net/blog/view/27)
   - [선분 교차](https://gaussian37.github.io/math-algorithm-line_intersection/)
+
+- #### 참고 자료
+
+  - [신발끈 공식 증명](https://omath.tistory.com/105)
+  - [백터의 외적](https://blog.naver.com/mindo1103/90103361104)
 
 - #### 기본 문제
 
