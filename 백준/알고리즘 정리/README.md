@@ -604,6 +604,7 @@
 - #### 알고리즘 설명
 
   - [분할 정복](https://anz1217.tistory.com/17)
+  - [분할 정복을 이용한 거듭제곱](https://velog.io/@expertinpyo/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A6%AC-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B1%B0%EB%93%AD%EC%A0%9C%EA%B3%B1)
   
 - #### 기본 문제
 
@@ -613,6 +614,9 @@
  
   - [[실버1] 곱셈](https://www.acmicpc.net/problem/1629)
   - [[실버1] Z](https://www.acmicpc.net/problem/1074)
+  - [[골드5] 비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)
+  - [[골드2] 피보나치의 수 6](https://www.acmicpc.net/problem/11444)
+  - [[골드2] 너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)
   - [[골드1] 이항 계수 3](https://www.acmicpc.net/problem/11401)
   - [[골드1] 스카이라인](https://www.acmicpc.net/problem/1933)
   - [[플레5] 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
@@ -845,6 +849,10 @@
   - [[실버5] 행렬 곱셈](https://www.acmicpc.net/problem/2740)
 
 - #### 응용 문제
+
+  - [[실버5] 부울행렬의 부울곱](https://www.acmicpc.net/problem/14492)
+  - [[골드4] 행렬 제곱](https://www.acmicpc.net/problem/10830)
+  - [[플레5] 선형 연립 방정식](https://www.acmicpc.net/problem/22940)
 
 <br>
 
