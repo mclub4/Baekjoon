@@ -295,6 +295,9 @@
 - #### 알고리즘 설명
 
   - [해싱](https://ratsgo.github.io/data%20structure&algorithm/2017/10/25/hash/)
+
+- #### 참고 자료
+
   - [딕셔너리 (파이썬)](https://blockdmask.tistory.com/450)
 
 - #### 기본 문제
@@ -415,6 +418,9 @@
   - [스패닝 트리](https://limecoding.tistory.com/123)
   - [크루스칼 알고리즘](https://4legs-study.tistory.com/111)
   - [프림 알고리즘](https://4legs-study.tistory.com/112)
+
+- #### 참고 자료
+
   - [솔린 알고리즘](https://limecoding.tistory.com/127)
   - [네트워크에 스패닝 트리 프로토콜 (참고만)](https://blog.naver.com/spahqhdl/221975163336)
 
@@ -508,7 +514,10 @@
 
   - [이분 그래프](https://gmlwjd9405.github.io/2018/08/23/algorithm-bipartite-graph.html)
   - [레드 블랙 트리](https://blogshine.tistory.com/102)
-  - [리눅스 커널에서 쓰이는 레드 블랙 트리 (참고용)](https://smile2x.tistory.com/36)
+
+- #### 참고 자료
+
+  - [리눅스 커널에서 쓰이는 레드 블랙 트리](https://smile2x.tistory.com/36)
 
 - #### 기본 문제
 
@@ -572,6 +581,9 @@
 - #### 알고리즘 설명
 
   - [DP](https://hongjw1938.tistory.com/47)
+
+- #### 참고 자료
+
   - [DP의 최적화](https://anz1217.tistory.com/130)
   - [LCS 문제랑 냅색 문제랑 연계됨](#--냅색-문제-배낭-문제)
   - [컨벡스 헐 트릭과 연계됨](#--컨벡스-헐-트릭convex-hull-trick)
@@ -609,6 +621,9 @@
 
   - [분할 정복](https://anz1217.tistory.com/17)
   - [분할 정복을 이용한 거듭제곱](https://velog.io/@expertinpyo/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A6%AC-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B1%B0%EB%93%AD%EC%A0%9C%EA%B3%B1)
+
+- #### 참고 자료
+
   - [L-트리미노 퍼즐, 최근접 점 쌍 찾기, 분할 정복의 최적화와 연계됨](#--l-트리미노-퍼즐)
   
 - #### 기본 문제
@@ -633,6 +648,9 @@
 
   - [비트마스킹](https://rebro.kr/63)
   - [DP와 비트마스킹](https://anz1217.tistory.com/39)
+
+- #### 참고 자료
+
   - [외판원 순회 문제랑 연계됨](#--외판원-순회) 
 
 - #### 기본 문제
@@ -1048,6 +1066,9 @@
 - #### 알고리즘 설명
 
   - [정규 표현식](https://soooprmx.com/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95/)
+
+- #### 참고 자료
+
   - [정규 표현식 모음 요약](https://hamait.tistory.com/342)
 
 - #### 기본 문제
@@ -1075,11 +1096,14 @@
 
 ## [ 플레티넘 ]
 
-### - KMP 알고리즘/보이어 무어 알고리즘
+### - KMP 알고리즘
 
 - #### 알고리즘 설명
 
   - [KMP 알고리즘](https://bowbowbow.tistory.com/6)
+
+- #### 참고 자료
+
   - [보이어 무어 알고리즘](https://bblackscene21.tistory.com/3)
 
 - #### 기본 문제
