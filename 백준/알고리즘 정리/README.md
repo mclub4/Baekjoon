@@ -453,7 +453,8 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [다익스트라 알고리즘](https://velog.io/@717lumos/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BCDijkstra-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+  - [밸만-포드 알고리즘](https://velog.io/@kimdukbae/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B2%A8%EB%A7%8C-%ED%8F%AC%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Bellman-Ford-Algorithm)
 
 - #### 기본 문제
 
@@ -461,6 +462,10 @@
   - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
 
 - #### 응용 문제
+
+  - [[골드5] 숨바꼭질3](https://www.acmicpc.net/problem/13549)
+  - [[골드4] 특정한 최단 경로](https://www.acmicpc.net/problem/1504)
+  - [[골드2] 미확인 도착지](https://www.acmicpc.net/problem/9370)
 
 ### - 폴로이드-위셜 알고리즘 (모든 최단 경로) 
 
@@ -470,10 +475,11 @@
 
 - #### 기본 문제
 
-  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
-  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
+  - [[골드4] 폴로이드](https://www.acmicpc.net/problem/11404)
 
 - #### 응용 문제
+
+  - [[골드4] 운동](https://www.acmicpc.net/problem/1956)
 
 ### - 최소 공통 조상 (LCA)
 
@@ -980,7 +986,7 @@
   - [[플레4] 감옥 건설](https://www.acmicpc.net/problem/2254)
   - [[플레3] 미스테리 싸인](https://www.acmicpc.net/problem/20670)
   - [[플레3] 걷기](https://www.acmicpc.net/problem/3700)
-  - [[플레2 점 분리](https://www.acmicpc.net/problem/3878)
+  - [[플레2] 점 분리](https://www.acmicpc.net/problem/3878)
   - [[플레1] 넓이](https://www.acmicpc.net/problem/1077)
 
 <br>
