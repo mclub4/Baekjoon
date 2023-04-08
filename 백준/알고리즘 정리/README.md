@@ -1283,9 +1283,18 @@
 
 ### - 게임
 
-   - [OpenGL (Learn OpenGL 번역 블로그)](https://heinleinsgame.tistory.com/3)
+- #### 컴퓨터 그래픽스
+
+  - [OpenGL (Learn OpenGL 번역 블로그)](https://heinleinsgame.tistory.com/3)
+  - [블랜더](https://namu.wiki/w/Blender)
+
+- #### Unity
+
+- #### 언리얼 엔진
 
 ### - 앱 개발
+
+- #### Flutter
 
    - [Flutter에 대해서](https://www.youtube.com/watch?v=JS-Si5GO3iA&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
 
@@ -1293,7 +1302,11 @@
 
 ### - 서버 개발
 
+- #### Django (장고)
+
    - [Django](https://wikidocs.net/book/4223)
+
+- #### Spring
 
 ## [ 기술 ]
 
@@ -1301,6 +1314,6 @@
 
 ### - 사건 사고
 
-   - [21년 log 4j 보안 취약점 사태](https://www.youtube.com/watch?v=kwS3twdVsko&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
-   - [22년 카카오 먹통 사태](https://www.youtube.com/watch?v=tLLs7fKts2o&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
-   - [23년 메이플스토리 클라이언트 변조 사태](https://www.youtube.com/watch?v=tvIPwMEXLI0&ab_channel=%EA%B9%80%EC%84%B1%ED%9A%8C%EC%9D%98G%EC%8B%9D%EB%B0%B1%EA%B3%BC)
+  - [21년 log 4j 보안 취약점 사태](https://www.youtube.com/watch?v=kwS3twdVsko&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
+  - [22년 카카오 먹통 사태](https://www.youtube.com/watch?v=tLLs7fKts2o&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
+  - [23년 메이플스토리 클라이언트 변조 사태](https://www.youtube.com/watch?v=tvIPwMEXLI0&ab_channel=%EA%B9%80%EC%84%B1%ED%9A%8C%EC%9D%98G%EC%8B%9D%EB%B0%B1%EA%B3%BC)
