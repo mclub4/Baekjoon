@@ -35,6 +35,13 @@
 
 [ * 목차로 가기 ](#--목차-)
 
+### - 시작하기 전에
+
+- #### 설명
+
+  - [PS의 기초](https://anz1217.tistory.com/147)
+  - [시간 복잡도](https://bblackscene21.tistory.com/7)
+
 ### - 개발 환경
 
 - #### 설명
@@ -1335,8 +1342,6 @@
 
 - #### 설명
 
-  - [PS의 기초](https://anz1217.tistory.com/147)
-  - [시간 복잡도](https://bblackscene21.tistory.com/7)
   - [오버로딩 & 오버라이딩](https://hyoje420.tistory.com/14)
   - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
   - [폰 노이만 아키텍쳐](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
