@@ -4,7 +4,7 @@
 
 # 📌 < 목차 >
 
-[ 1. 기본 및 개발환경 ](#--기본-및-개발환경-)
+[ 1. 개발환경 및 CS ](#--개발환경-및-cs-)
 
 [ 2. 기초 알고리즘 ](#--기초-)
 
@@ -22,28 +22,17 @@
 
 [ 9. 기타 알고리즘 ](#--기타-알고리즘-)
 
+[10. 읽을거리](#--읽을거리-)
+
 <br>
 
 -----------------------------------------------
 
 <br>
 
-# 📌 < 기본 및 개발환경 >
+# 📌 < 개발환경 및 CS >
 
 [ * 목차로 가기 ](#--목차-)
-
-### - 컴퓨터
-
-- #### 설명
-
-  - [PS의 기초](https://anz1217.tistory.com/147)
-  - [시간 복잡도](https://bblackscene21.tistory.com/7)
-  - [진법 변환](https://blog.naver.com/icbanq/221727893563)
-  - [2의 보수](https://life-with-coding.tistory.com/298)
-  - [오버로딩 & 오버라이딩](https://hyoje420.tistory.com/14)
-  - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
-  - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
-  - [동시성](https://spacebike.tistory.com/22)
 
 ### - 개발 환경
 
@@ -99,6 +88,20 @@
   - [CodeForces](http://codeforces.com/)
   - [AtCoder](https://atcoder.jp/)
   - [LeetCode](https://leetcode.com/)
+  
+### - Computer Science (CS)
+
+- #### 설명
+
+  - [PS의 기초](https://anz1217.tistory.com/147)
+  - [시간 복잡도](https://bblackscene21.tistory.com/7)
+  - [진법 변환](https://blog.naver.com/icbanq/221727893563)
+  - [2의 보수](https://life-with-coding.tistory.com/298)
+  - [오버로딩 & 오버라이딩](https://hyoje420.tistory.com/14)
+  - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
+  - [폰 노이만 아키텍쳐](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
+  - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
+  - [동시성](https://spacebike.tistory.com/22)
   
 <br>
 
@@ -1265,3 +1268,21 @@
 - #### 기본 문제
 
   - [[다이아1] Product](https://www.acmicpc.net/problem/3764)
+
+<br>
+
+-------------------------------------
+
+<br>
+
+# 📌 < 읽을거리 >
+
+[ * 목차로 가기 ](#--목차-)
+
+### [ 시사 이슈 ]
+
+### - 사건 사고
+
+   - [21년 log 4j 보안 취약점 사태](https://www.youtube.com/watch?v=kwS3twdVsko&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
+   - [22년 카카오 먹통 사태](https://www.youtube.com/watch?v=tLLs7fKts2o&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
+   - [23년 메이플스토리 클라이언트 변조 사태](https://www.youtube.com/watch?v=tvIPwMEXLI0&ab_channel=%EA%B9%80%EC%84%B1%ED%9A%8C%EC%9D%98G%EC%8B%9D%EB%B0%B1%EA%B3%BC)
