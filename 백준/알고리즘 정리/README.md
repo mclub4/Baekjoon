@@ -567,6 +567,18 @@
 
 - #### 응용 문제
 
+### - 오일러 경로
+
+- #### 알고리즘 설명
+
+  - [오일러 경로](https://blog.naver.com/PostView.naver?blogId=kks227&logNo=220800097205&categoryNo=0&parentCategoryNo=299&viewDate=&currentPage=8&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=8)
+
+- #### 기본 문제
+
+  - [[플레4] 오일러 회로](https://www.acmicpc.net/problem/1199)
+
+- #### 응용 문제
+
 <br>
 
 ## [ 다이아 ]
@@ -936,11 +948,11 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [ 고속 푸리에 변환 ](https://blog.naver.com/PostView.naver?blogId=kks227&logNo=221633584963&categoryNo=299&parentCategoryNo=299&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
 
 - #### 기본 문제
 
-  - 
+  - [[플레1] 이동](https://www.acmicpc.net/problem/1067)
 
 - #### 응용 문제
 
