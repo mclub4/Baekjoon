@@ -1315,6 +1315,10 @@
 
 - #### YOLO
 
+<br>
+
+## [ Computer Science ]
+
 ### - Computer Science (CS)
 
 - #### 설명
@@ -1326,6 +1330,8 @@
   - [폰 노이만 아키텍쳐](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
   - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
   - [동시성](https://spacebike.tistory.com/22)
+
+<br>
 
 ## [ 기술 ]
 
