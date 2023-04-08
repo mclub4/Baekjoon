@@ -1289,6 +1289,12 @@
 
    - [Flutter에 대해서](https://www.youtube.com/watch?v=JS-Si5GO3iA&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
 
+### - 웹 개발
+
+### - 서버 개발
+
+   - [Django](https://wikidocs.net/book/4223)
+
 ## [ 기술 ]
 
 ## [ 시사 이슈 ]
