@@ -1,10 +1,11 @@
 # [ 알고리즘/자료구조 STANDARD 문제 모음 ]
 
 공부용으로 간단한 기초 알고리즘 부터 어려운 알고리즘까지 익힐 수 있는 기본 문제들과 그 알고리즘을 응용하는 문제들을 난이도 별로 모아둔 문서임.
+기초적인 것 부터 대회용 어려운 알고리즘까지 다 있으니 플래티넘부턴 알아서 거를 것. 
 
 # 📌 < 목차 >
 
-[ 1. 개발환경 및 CS ](#--개발환경-및-cs-)
+[ 1. 개발환경 ](#--개발환경-)
 
 [ 2. 기초 알고리즘 ](#--기초-)
 
@@ -22,7 +23,7 @@
 
 [ 9. 기타 알고리즘 ](#--기타-알고리즘-)
 
-[10. 읽을거리](#--읽을거리-)
+[10. 개발 및 읽을거리](#--개발-및-읽을거리-)
 
 <br>
 
@@ -30,7 +31,7 @@
 
 <br>
 
-# 📌 < 개발환경 및 CS >
+# 📌 < 개발환경 >
 
 [ * 목차로 가기 ](#--목차-)
 
@@ -88,21 +89,7 @@
   - [CodeForces](http://codeforces.com/)
   - [AtCoder](https://atcoder.jp/)
   - [LeetCode](https://leetcode.com/)
-  
-### - Computer Science (CS)
-
-- #### 설명
-
-  - [PS의 기초](https://anz1217.tistory.com/147)
-  - [시간 복잡도](https://bblackscene21.tistory.com/7)
-  - [진법 변환](https://blog.naver.com/icbanq/221727893563)
-  - [2의 보수](https://life-with-coding.tistory.com/298)
-  - [오버로딩 & 오버라이딩](https://hyoje420.tistory.com/14)
-  - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
-  - [폰 노이만 아키텍쳐](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
-  - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
-  - [동시성](https://spacebike.tistory.com/22)
-  
+    
 <br>
 
 -----------------------------------------------
@@ -114,6 +101,17 @@
 [ * 목차로 가기 ](#--목차-)
 
 ## [ 브론즈 ]
+
+### - 진법 변환
+
+- #### 알고리즘 설명
+
+  - [진법 변환](https://blog.naver.com/icbanq/221727893563)
+  - [2의 보수](https://life-with-coding.tistory.com/298)
+
+- #### 기본 문제
+
+   - [[브론즈4] 이진수 연산](https://www.acmicpc.net/problem/12813)
 
 ### - 브루트포스/백트래킹
 
@@ -672,7 +670,6 @@
 
 - #### 기본 문제
 
-  - [[브론즈4] 이진수 연산](https://www.acmicpc.net/problem/12813)
   - [[실버5] 집합](https://www.acmicpc.net/problem/11723)
 
 - #### 응용 문제
@@ -1275,7 +1272,7 @@
 
 <br>
 
-# 📌 < 읽을거리 >
+# 📌 < 개발 및 읽을거리 >
 
 [ * 목차로 가기 ](#--목차-)
 
@@ -1317,6 +1314,18 @@
 - #### Tensorflow
 
 - #### YOLO
+
+### - Computer Science (CS)
+
+- #### 설명
+
+  - [PS의 기초](https://anz1217.tistory.com/147)
+  - [시간 복잡도](https://bblackscene21.tistory.com/7)
+  - [오버로딩 & 오버라이딩](https://hyoje420.tistory.com/14)
+  - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
+  - [폰 노이만 아키텍쳐](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
+  - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
+  - [동시성](https://spacebike.tistory.com/22)
 
 ## [ 기술 ]
 
