@@ -120,18 +120,20 @@
 
    - [[브론즈4] 이진수 연산](https://www.acmicpc.net/problem/12813)
 
-### - 브루트포스/백트래킹
+### - 브루트포스 알고리즘
 
 - #### 알고리즘 설명
 
   - [브루트포스](https://foreverhappiness.tistory.com/104)
-  - [백트래킹](https://fomaios.tistory.com/entry/Algorithm-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9Backtracking%EC%9D%B4%EB%9E%80)
+  
+- #### 참고 자료
+
+  - [백트래킹과 매우 유사함](#-백트래킹--)
 
 - #### 기본 문제
   
   - [[브론즈2] 블랙잭](https://www.acmicpc.net/problem/2798)
   - [[실버4] 설탕배달](https://www.acmicpc.net/problem/2839)
-  - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649)
 
 - #### 응용 문제
  
@@ -139,20 +141,9 @@
   - [[브론즈2] 분해합](https://www.acmicpc.net/problem/2231)
   - [[브론즈1] 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
   - [[실버4] 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-  - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
-  - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
   - [[실버2] 마인크래프트](https://www.acmicpc.net/problem/18111)
-  - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
   - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
-  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
-  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
-  - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
-  - [[골드4] 사격 연습](https://www.acmicpc.net/problem/27958)
-  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
-  - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
  
-
-
 ## [ 실버 ]
 
 ### - 재귀
@@ -160,6 +151,10 @@
 - #### 알고리즘 설명
 
   - [재귀](https://medium.com/@sunnkis/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9E%AC%EA%B7%80-8d96633be4cd)
+
+- #### 참고 자료
+
+  - [하노이탑](https://mgyo.tistory.com/185)
 
 - #### 기본 문제
 
@@ -391,6 +386,35 @@
   - [[골드3] 아기상어](https://www.acmicpc.net/problem/16236)
   - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
 
+### - 백트래킹
+
+- #### 알고리즘 설명
+
+  - [백트래킹](https://fomaios.tistory.com/entry/Algorithm-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9Backtracking%EC%9D%B4%EB%9E%80) 
+
+- #### 기본 문제
+
+  - [[실버3] N과 M (1)](https://www.acmicpc.net/problem/15649) 
+
+- #### 응용 문제
+   
+  - [[실버3] N과 M(2)](https://www.acmicpc.net/problem/15650)
+  - [[실버3] N과 M(3)](https://www.acmicpc.net/problem/15651)
+  - [[실버3] N과 M(4)](https://www.acmicpc.net/problem/15652)
+  - [[실버3] N과 M(5)](https://www.acmicpc.net/problem/15654)
+  - [[실버3] N과 M(6)](https://www.acmicpc.net/problem/15655)
+  - [[실버2] 로또](https://www.acmicpc.net/problem/6603)
+  - [[실버2] 스타트와 링크](https://www.acmicpc.net/problem/14889)
+  - [[실버1] 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
+  - [[골드5] 틱택토](https://www.acmicpc.net/problem/7682)
+  - [[골드5] 암호 만들기](https://www.acmicpc.net/problem/1759)
+  - [[골드4] N-Queen](https://www.acmicpc.net/problem/9663)
+  - [[골드4] 스도쿠](https://www.acmicpc.net/problem/2580)
+  - [[골드4] 사격 연습](https://www.acmicpc.net/problem/27958)
+  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [[플레4] 2048(Hard)](https://www.acmicpc.net/problem/12094)
+  
 <br>
 
 ## [ 골드 ]
@@ -1224,6 +1248,31 @@
 
 - #### 응용 문제
 
+### - 투포인터/슬라이딩 윈도우
+
+- #### 알고리즘 설명
+
+  - [투포인터](https://butter-shower.tistory.com/226)
+  - [슬라이딩 윈도우](https://velog.io/@zwon/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%9C%88%EB%8F%84%EC%9A%B0Sliding-Window)
+
+- #### 기본 문제
+
+  - [[실버3] 두 수의 합](https://www.acmicpc.net/problem/3273)
+  - [[실버3] 꿀 아르바이트](https://www.acmicpc.net/problem/12847)
+
+- #### 응용 문제
+  
+  - [[실버3] 수열](https://www.acmicpc.net/problem/2559)
+  - [[실버2] DNA 비밀번호](https://www.acmicpc.net/problem/12891)
+  - [[실버1] 귀여운 라이언](https://www.acmicpc.net/problem/15565)
+  - [[골드5] 두 용액](https://www.acmicpc.net/problem/2470)
+  - [[골드4] 도둑](https://www.acmicpc.net/problem/13422)
+  - [[골드4] 부분합](https://www.acmicpc.net/problem/1806)
+  - [[골드4] 회전초밥](https://www.acmicpc.net/problem/15961)
+  - [[골드4] 내려가기](https://www.acmicpc.net/problem/2096)
+  - [[골드3] 연속한느 소수의 합](https://www.acmicpc.net/problem/7512)
+  - [[골드1] 점 나누기](https://www.acmicpc.net/problem/1723)
+
 <br>
 
 ## [ 골드 ]
@@ -1239,23 +1288,27 @@
   - [[골드5] 선 긋기](https://www.acmicpc.net/problem/2170)
 
 - #### 응용 문제
-
+  
+  - [[골드5] 최소 회의실 개수](https://www.acmicpc.net/problem/19598)
+  - [[골드5] 아우으 우아으이야!!](https://www.acmicpc.net/problem/15922)
+  - [[골드4] 겹치는 선분](https://www.acmicpc.net/problem/1689)
   - [[골드3] 수상 택시](https://www.acmicpc.net/problem/2836)
-
-### - 투포인터/슬라이딩 윈도우
+  - [[골드3] 개구리 점프](https://www.acmicpc.net/problem/17619)
+  - [[골드2] 최대 클리크 구하기](https://www.acmicpc.net/problem/13160)
+  - [[골드2] 철로](https://www.acmicpc.net/problem/13334)
+  - [[플레4] 북서풍](https://www.acmicpc.net/problem/5419)
+  
+### - 중간에서 만나기 (MITM)
 
 - #### 알고리즘 설명
 
-  - [투포인터](https://butter-shower.tistory.com/226)
-  - [슬라이딩 윈도우](https://velog.io/@zwon/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%9C%88%EB%8F%84%EC%9A%B0Sliding-Window)
+  - 
 
 - #### 기본 문제
 
-  - [[골드5] 두 용액](https://www.acmicpc.net/problem/2470)
+  - 
 
 - #### 응용 문제
-
-  - [[골드4] 도둑](https://www.acmicpc.net/problem/13422)
 
 <br>
 
