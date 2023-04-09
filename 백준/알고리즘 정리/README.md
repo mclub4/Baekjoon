@@ -1,7 +1,10 @@
-# [ 알고리즘/자료구조 STANDARD 문제 모음 ]
+# [ 컴퓨터 관련 백과사전 (알고리즘/자료구조/개발/CS 등) ]
 
-공부용으로 간단한 기초 알고리즘 부터 어려운 알고리즘까지 익힐 수 있는 기본 문제들과 그 알고리즘을 응용하는 문제들을 난이도 별로 모아둔 문서임.
-기초적인 것 부터 대회용 어려운 알고리즘까지 다 있으니 플래티넘부턴 알아서 거를 것. 
+본 문서는 개인적인 공부를 위해 이곳저곳에 흩어져있는 컴퓨터 관련 전공 지식을 한곳에 정리해 둔 문서임. 공부용으로 개발 관련, CS관련 등도 모아져 있지만 메인은 알고리즘/자료구조임.
+
+간단한 기초 알고리즘 부터 어려운 알고리즘까지 익힐 수 있는 기본 문제들과 그 알고리즘을 응용하는 문제들을 난이도 별로 모아서 공부하기 위해서 만듦.
+
+!!기초적인 것 부터 대회용 어려운 알고리즘까지 다 있으니 플래티넘부턴 알아서 거를 것. 개발/CS/시사이슈 관련해서는 맨 밑에 10장에 따로 모아뒀음!!
 
 # 📌 < 목차 >
 
@@ -1393,7 +1396,7 @@
 
 ## [ Computer Science ]
 
-### - Computer Science (CS)
+### - CS 기초
 
 - #### 설명
 
@@ -1401,11 +1404,25 @@
   - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
   - [폰 노이만 아키텍쳐](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
   - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
+
+### 운영체제
+
+- #### 운영체제 참고서 및 정리 사이트
+
+  - [운영체제 참고서](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+  - [운영체제 참고서 한글 번역](https://github.com/remzi-arpacidusseau/ostep-translations/blob/master/korean/README.md)
+  - [참고서 기반 운영체제 정리 블로그](https://devforyou.tistory.com/70)
+  - [개인적으로 정리한 운영체제](https://docs.google.com/document/d/1w-Ji967IloyWLJrs7MShncNIEYLo8yqGuLDj4MB4yGk/edit?usp=sharing)
+ 
+- #### 운영체제
+
   - [동시성](https://spacebike.tistory.com/22)
 
 <br>
 
 ## [ 기술 ]
+
+<br>
 
 ## [ 시사 이슈 ]
 
@@ -1414,3 +1431,7 @@
   - [21년 log 4j 보안 취약점 사태](https://www.youtube.com/watch?v=kwS3twdVsko&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
   - [22년 카카오 먹통 사태](https://www.youtube.com/watch?v=tLLs7fKts2o&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
   - [23년 메이플스토리 클라이언트 변조 사태](https://www.youtube.com/watch?v=tvIPwMEXLI0&ab_channel=%EA%B9%80%EC%84%B1%ED%9A%8C%EC%9D%98G%EC%8B%9D%EB%B0%B1%EA%B3%BC)
+
+<br>
+
+## [ 유용한 사이트/블로그 모음 ]
