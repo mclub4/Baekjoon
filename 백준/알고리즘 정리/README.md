@@ -1468,6 +1468,7 @@
   - [지역 변수/전역 변수](https://velog.io/@cyhse7/%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98-%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98)
   - [폰 노이만 아키텍쳐](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
   - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
+  - [비동기와 멀티 스레딩](https://jayhyun-hwang.github.io/2021/09/02/The-Difference-Between-Asynchronous-And-Multi-Threading/)
 
 ### - 운영체제
 
