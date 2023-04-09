@@ -1422,6 +1422,8 @@
 
 ### - 웹 개발
 
+   - [ngrok](https://ngrok.com/)
+   
 ### - 서버 개발
 
 - #### Django (장고)
@@ -1476,6 +1478,8 @@
 
   - [동시성](https://spacebike.tistory.com/22)
 
+[* 10장으로 바로가기](#--개발-및-읽을거리-)
+
 <br>
 
 ## [ 기술 ]
@@ -1497,5 +1501,15 @@
 <br>
 
 ## [ 유용한 사이트/블로그 모음 ]
+
+### - 사이트
+
+  - [영타 측정기](https://monkeytype.com/)
+
+### - 유튜버
+
+  - [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY&t=2462s&ab_channel=MoodRainbow)
+  - [노마드코더](https://www.youtube.com/@nomadcoders)
+  - [코딩애플](https://www.youtube.com/@codingapple)
 
 [* 10장으로 바로가기](#--개발-및-읽을거리-)
