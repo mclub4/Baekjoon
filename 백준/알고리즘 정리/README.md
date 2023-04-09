@@ -252,12 +252,16 @@
   - [원형큐](https://velog.io/@mcc919/Data-Structure-%EC%9B%90%ED%98%95-%ED%81%90Circular-Queue-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
   - [덱](https://leejinseop.tistory.com/39)
 
+- #### 참고 자료
+
+  - [파이썬에서 큐와 덱의 속도 차이](https://programming119.tistory.com/184)
+
 - #### 기본 문제
 
   - [[실버4] 큐2](https://www.acmicpc.net/problem/18258)
   - [[실버3] 회전하는 큐](https://www.acmicpc.net/problem/1021)
   - [[실버4] 덱](https://www.acmicpc.net/problem/10866)
-
+  
 - #### 응용 문제
  
   - [[실버5] 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
