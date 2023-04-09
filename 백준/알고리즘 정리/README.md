@@ -1497,7 +1497,17 @@
   - [참고서 기반 운영체제 정리 블로그](https://devforyou.tistory.com/70)
   - [개인적으로 정리한 운영체제](https://docs.google.com/document/d/1w-Ji967IloyWLJrs7MShncNIEYLo8yqGuLDj4MB4yGk/edit?usp=sharing)
  
-- #### 운영체제
+- #### 운영체제의 기초
+ 
+  - 운영체제란?
+  
+- #### 프로세스/CPU 스케쥴링
+
+  - 
+
+- #### 가상주소 변환
+
+- #### 동시성
 
   - [동시성](https://spacebike.tistory.com/22)
 
