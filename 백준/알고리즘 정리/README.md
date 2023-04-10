@@ -1488,6 +1488,10 @@
   - [부동 소수점](https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381)
   - [비동기와 멀티 스레딩](https://jayhyun-hwang.github.io/2021/09/02/The-Difference-Between-Asynchronous-And-Multi-Threading/)
 
+### - 컴퓨터 네트워크
+
+  - [개인적으로 정리한 컴퓨터 네트워크](https://docs.google.com/document/d/1ILrg7cz9Tk5yV2WBsGUZXA8LwSscY6XYWPXTqk0J05E/edit?usp=sharing)
+
 ### - 운영체제
 
 - #### 운영체제 참고서 및 정리 사이트
