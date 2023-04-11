@@ -203,7 +203,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## [ 브론즈 ]
+## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
 
 ### - 배열
 
@@ -217,7 +217,7 @@
 
 <br>
 
-## [ 실버 ]
+## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 링크드 리스트
 
@@ -266,15 +266,15 @@
 - #### 기본 문제
 
   - [[실버4] 큐2](https://www.acmicpc.net/problem/18258)
-  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/8.svg"/> 회전하는 큐](https://www.acmicpc.net/problem/1021)
+  - [[실버4] 회전하는 큐](https://www.acmicpc.net/problem/1021)
   - [[실버4] 덱](https://www.acmicpc.net/problem/10866)
   
 - #### 응용 문제
  
-  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/7.svg"/> 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
-  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/8.svg"/> 큐](https://www.acmicpc.net/problem/10845)
-  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/8.svg"/> 카드2](https://www.acmicpc.net/problem/2164)
-  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/10.svg"/> 트럭](https://www.acmicpc.net/problem/13335)
+  - [[실버5] 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+  - [[실버4] 큐](https://www.acmicpc.net/problem/10845)
+  - [[실버4] 카드2](https://www.acmicpc.net/problem/2164)
+  - [[실버1] 트럭](https://www.acmicpc.net/problem/13335)
   - [[골드5] AC](https://www.acmicpc.net/problem/5430)
   - [[골드4] 뱀](https://www.acmicpc.net/problem/3190)
   - [[골드1] 정렬 게임](https://www.acmicpc.net/problem/13415)
@@ -335,7 +335,7 @@
 
 <br>
 
-## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
+## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 이진 트리
 
