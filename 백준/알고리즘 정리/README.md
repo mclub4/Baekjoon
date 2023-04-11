@@ -22,7 +22,7 @@
 
 # 📌 < 목차 >
 
-[ 1. 개발환경 ](#--개발환경-)
+[ 1. 개발환경 ](#--시작하기--)
 
 [ 2. 기초 알고리즘 ](#--기초-)
 
@@ -48,7 +48,7 @@
 
 <br>
 
-# 📌 < 개발환경 >
+# 📌 < 시작하기 전에 >
 
 [ * 목차로 가기 ](#--목차-)
 
@@ -58,15 +58,6 @@
 
   - [PS의 기초](https://anz1217.tistory.com/147)
   - [시간 복잡도](https://bblackscene21.tistory.com/7)
-
-### - 개발 환경
-
-- #### 설명
-
-  - [WSL](https://melonicedlatte.com/2020/07/05/200400.html)
-  - [리눅스 명령어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Linux%20Basic%20Command.md)
-  - github 설정
-  - git 
   - [백준 푼 문제 자동으로 git에 올리기](https://github.com/BaekjoonHub/BaekjoonHub)
   
 ### - IDE
@@ -1401,7 +1392,7 @@
 
 [ 2. Computer Science ](#-computer-science-)
 
-[ 3. 기술 ](#-기술-)
+[ 3. 개발환경/기술 ](#-개발환경기술-)
 
 [ 4. 시사 이슈 ](#-시사-이슈-)
 
@@ -1519,7 +1510,16 @@
 
 <br>
 
-## [ 기술 ]
+## [ 개발환경/기술 ]
+
+### - 개발 환경
+
+- #### 설명
+
+  - [WSL](https://melonicedlatte.com/2020/07/05/200400.html)
+  - [리눅스 명령어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Linux%20Basic%20Command.md)
+  - github 설정
+  - git 
 
 ### - 디자인 패턴
 
