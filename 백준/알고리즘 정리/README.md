@@ -1,6 +1,6 @@
 # [ 📖 컴퓨터 관련 백과사전 (알고리즘/자료구조/개발/CS 등) 📖 ]
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmclub4%2FBaekjoon%2Ftree%2Fmain%2F%25EB%25B0%25B1%25EC%25A4%2580%2F%25EC%2595%258C%25EA%25B3%25A0%25EB%25A6%25AC%25EC%25A6%2598%2520%25EC%25A0%2595%25EB%25A6%25AC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
