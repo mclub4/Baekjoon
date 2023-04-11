@@ -117,7 +117,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
 
 ### - 진법 변환
 
@@ -154,7 +154,7 @@
   - [[실버2] 마인크래프트](https://www.acmicpc.net/problem/18111)
   - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
  
-## [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 재귀
 
@@ -203,7 +203,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="30px" width="30px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
 
 ### - 배열
 
@@ -217,7 +217,7 @@
 
 <br>
 
-## <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 링크드 리스트
 
@@ -335,7 +335,7 @@
 
 <br>
 
-## <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 이진 트리
 
@@ -373,7 +373,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 그래프와 순회 (DFS와 BFS)
 
@@ -441,7 +441,7 @@
 
 <br>
 
-## [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 분리 집합 (유니온 & 파인드)
 
