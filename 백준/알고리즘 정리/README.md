@@ -585,7 +585,7 @@
 
 <br>
 
-## [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
 
 ### - 최대 유량
 
@@ -640,7 +640,7 @@
 
 <br>
 
-## [ 다이아 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/25.svg"/> [ 다이아 ]
 
 ### - A* 알고리즘
 
@@ -663,6 +663,8 @@
 # 📌 < DP/분할 >
 
 [ * 목차로 가기 ](#--목차-)
+
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 동적 계획법 (DP)
 
@@ -786,7 +788,7 @@
 
 <br>
 
-## [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 냅색 문제 (배낭 문제)
 
@@ -850,7 +852,7 @@
 
 <br>
 
-## [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
 
 ### - L-트리미노 퍼즐
 
@@ -916,7 +918,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
 
 ### - 약수 구하기
 
@@ -958,7 +960,7 @@
   
 <br>  
   
-## [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 소수 판별 (에라토스테네스의 체)
 
@@ -995,7 +997,7 @@
 
 <br>
 
-## [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 확장 유클리드 호제법
 
@@ -1011,7 +1013,7 @@
 
 <br>
 
-## [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
 
 ### - 고속 푸리에 변환
 
@@ -1035,7 +1037,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
 
 ### - 기하
 
@@ -1060,7 +1062,7 @@
 
 <br>
 
-## [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - CCW/선분 교차
 
@@ -1113,7 +1115,7 @@
 
 <br>
 
-## [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
 
 ### - 컨벡스 헐
 
@@ -1159,7 +1161,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 정규 표현식
 
@@ -1178,7 +1180,7 @@
 
 <br>
 
-## [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 트라이
 
@@ -1194,7 +1196,7 @@
 
 <br>
 
-## [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
 
 ### - KMP 알고리즘
 
@@ -1272,7 +1274,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 게임 이론
 
@@ -1313,7 +1315,7 @@
 
 <br>
 
-## [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 스위핑
 
@@ -1350,7 +1352,7 @@
 
 <br>
 
-## [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
 
 ### - Mo's 알고리즘
 
