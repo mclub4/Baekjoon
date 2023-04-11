@@ -1,5 +1,7 @@
 # [ 📖 컴퓨터 관련 백과사전 (알고리즘/자료구조/개발/CS 등) 📖 ]
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 <br>
 
 ------------------------
