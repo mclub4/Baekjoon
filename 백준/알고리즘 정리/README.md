@@ -203,7 +203,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
+## <img height="30px" width="30px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
 
 ### - 배열
 
