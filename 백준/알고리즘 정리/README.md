@@ -1442,6 +1442,7 @@
 - #### Django (장고)
 
    - [Django](https://wikidocs.net/book/4223)
+   - [Flask](https://wikidocs.net/81039)
 
 - #### Spring
 
@@ -1481,7 +1482,13 @@
 
 ### - 컴퓨터 네트워크
 
-  - 
+- #### IP주소와 서브넷 마스크
+  
+  - [IP 주소란?](https://catsbi.oopy.io/15f97a5f-acc8-410e-afab-0b26adff89c5)
+  - [IPv4와 IPv6](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hai0416&logNo=221566797342)
+  - [IP주소의 클래스](https://limkydev.tistory.com/168)
+  - [서브넷마스크란?](https://code-lab1.tistory.com/34)
+  
 
 ### - 운영체제
 
@@ -1525,6 +1532,12 @@
   
   - github 설정
   - git 
+
+### = CI/CD
+
+ - #### 설명
+
+   - [CI/CD란?](https://seosh817.tistory.com/104)
 
 ### - 디자인 패턴
 
