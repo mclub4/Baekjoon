@@ -264,7 +264,7 @@
 - #### 기본 문제
 
   - [[실버4] 큐2](https://www.acmicpc.net/problem/18258)
-  - [[실버3] 회전하는 큐](https://www.acmicpc.net/problem/1021)
+  - [[<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>] 회전하는 큐](https://www.acmicpc.net/problem/1021)
   - [[실버4] 덱](https://www.acmicpc.net/problem/10866)
   
 - #### 응용 문제
