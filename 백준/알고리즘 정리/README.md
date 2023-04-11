@@ -203,7 +203,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
+## <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
 
 ### - 배열
 
@@ -217,7 +217,7 @@
 
 <br>
 
-## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
 
 ### - 링크드 리스트
 
@@ -335,7 +335,7 @@
 
 <br>
 
-## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
 
 ### - 이진 트리
 
