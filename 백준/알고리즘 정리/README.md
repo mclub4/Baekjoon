@@ -272,10 +272,10 @@
   - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/7.svg"/> 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
   - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/8.svg"/> 큐](https://www.acmicpc.net/problem/10845)
   - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/8.svg"/> 카드2](https://www.acmicpc.net/problem/2164)
-  - [<img height=18px" width="18px" src="https://static.solved.ac/tier_small/10.svg"/> 트럭](https://www.acmicpc.net/problem/13335)
-  - [<img height=18px" width="18px" src="https://static.solved.ac/tier_small/11.svg"/> AC](https://www.acmicpc.net/problem/5430)
-  - [<img height=18px" width="18px" src="https://static.solved.ac/tier_small/12.svg"/> 뱀](https://www.acmicpc.net/problem/3190)
-  - [<img height=18px" width="18px" src="https://static.solved.ac/tier_small/15.svg"/> 정렬 게임](https://www.acmicpc.net/problem/13415)
+  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/10.svg"/> 트럭](https://www.acmicpc.net/problem/13335)
+  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/11.svg"/> AC](https://www.acmicpc.net/problem/5430)
+  - [<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> 뱀](https://www.acmicpc.net/problem/3190)
+  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/15.svg"/> 정렬 게임](https://www.acmicpc.net/problem/13415)
 
 ### - 우선순위 큐/힙
 
