@@ -1490,7 +1490,7 @@
 
 ### - 컴퓨터 네트워크
 
-  - [개인적으로 정리한 컴퓨터 네트워크](https://docs.google.com/document/d/1ILrg7cz9Tk5yV2WBsGUZXA8LwSscY6XYWPXTqk0J05E/edit?usp=sharing)
+  - 
 
 ### - 운영체제
 
@@ -1521,11 +1521,25 @@
 
 ## [ 기술 ]
 
-[* 10장으로 바로가기](#--개발-및-읽을거리-)
-
 ### - 디자인 패턴
 
-- #### 디자인 패턴에 대해서
+- #### 설명
+
+    - [디자인 패턴이란?](https://gmlwjd9405.github.io/2018/07/06/design-pattern.html)
+    - [싱글톤 패턴](https://gmlwjd9405.github.io/2018/07/06/singleton-pattern.html)
+    
+### - 도커(Doker)
+
+- #### 설명
+   
+   - [도커 홈페이지](https://www.docker.com/)
+   - [도커란?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+   - [도커를 왜 써야되는가?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+   - [도커에 대해 배우기](https://pyrasis.com/jHLsAlwaysUpToDateDocker)
+
+### - 라즈베리파이(Raspberry Pi)
+
+[* 10장으로 바로가기](#--개발-및-읽을거리-)
 
 <br>
 
