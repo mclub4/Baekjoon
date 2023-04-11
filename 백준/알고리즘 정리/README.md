@@ -275,9 +275,9 @@
   - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/8.svg"/> 큐](https://www.acmicpc.net/problem/10845)
   - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/8.svg"/> 카드2](https://www.acmicpc.net/problem/2164)
   - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/10.svg"/> 트럭](https://www.acmicpc.net/problem/13335)
-  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/11.svg"/> AC](https://www.acmicpc.net/problem/5430)
-  - [<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> 뱀](https://www.acmicpc.net/problem/3190)
-  - [<img height="18px" width="18px" src="https://static.solved.ac/tier_small/15.svg"/> 정렬 게임](https://www.acmicpc.net/problem/13415)
+  - [[골드5] AC](https://www.acmicpc.net/problem/5430)
+  - [[골드4] 뱀](https://www.acmicpc.net/problem/3190)
+  - [[골드1] 정렬 게임](https://www.acmicpc.net/problem/13415)
 
 ### - 우선순위 큐/힙
 
@@ -335,7 +335,7 @@
 
 <br>
 
-## [ 골드 ]
+## <img height="18px" width="18px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - 이진 트리
 
