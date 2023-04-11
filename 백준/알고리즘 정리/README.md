@@ -1512,12 +1512,17 @@
 
 ## [ 개발환경/기술 ]
 
-### - 개발 환경
+### - 리눅스
 
 - #### 설명
 
   - [WSL](https://melonicedlatte.com/2020/07/05/200400.html)
   - [리눅스 명령어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Linux%20Basic%20Command.md)
+  
+### - Github
+
+- #### 설명
+  
   - github 설정
   - git 
 
