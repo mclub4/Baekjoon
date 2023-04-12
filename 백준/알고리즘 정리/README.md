@@ -117,7 +117,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/1.svg"/> [ 브론즈 ]
 
 ### - 진법 변환
 
@@ -154,7 +154,7 @@
   - [[실버2] 마인크래프트](https://www.acmicpc.net/problem/18111)
   - [[골드5] 리모컨](https://www.acmicpc.net/problem/1107)
  
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 재귀
 
