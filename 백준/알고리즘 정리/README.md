@@ -203,7 +203,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/1.svg"/> [ 브론즈 ]
 
 ### - 배열
 
@@ -217,7 +217,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 링크드 리스트
 
@@ -335,7 +335,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - 이진 트리
 
@@ -373,7 +373,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 그래프와 순회 (DFS와 BFS)
 
@@ -441,7 +441,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - 분리 집합 (유니온 & 파인드)
 
@@ -585,7 +585,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
 
 ### - 최대 유량
 
@@ -640,7 +640,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/25.svg"/> [ 다이아 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/21.svg"/> [ 다이아 ]
 
 ### - A* 알고리즘
 
@@ -664,7 +664,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 동적 계획법 (DP)
 
@@ -788,7 +788,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - 냅색 문제 (배낭 문제)
 
@@ -852,7 +852,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
 
 ### - L-트리미노 퍼즐
 
@@ -918,7 +918,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/1.svg"/> [ 브론즈 ]
 
 ### - 약수 구하기
 
@@ -960,7 +960,7 @@
   
 <br>  
   
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 소수 판별 (에라토스테네스의 체)
 
@@ -997,7 +997,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - 확장 유클리드 호제법
 
@@ -1013,7 +1013,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
 
 ### - 고속 푸리에 변환
 
