@@ -412,7 +412,8 @@
 
 - #### 알고리즘 설명
 
-  - [백트래킹](https://fomaios.tistory.com/entry/Algorithm-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9Backtracking%EC%9D%B4%EB%9E%80) 
+  - [백트래킹](https://fomaios.tistory.com/entry/Algorithm-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9Backtracking%EC%9D%B4%EB%9E%80)
+  - ※참고 : 그래프랑 관련이 조금 멀긴 한데, 그래프 이해하고 하는게 더 좋을 것 같에서 넣음
 
 - #### 기본 문제
 
