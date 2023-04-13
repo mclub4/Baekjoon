@@ -1037,7 +1037,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/5.svg"/> [ 브론즈 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/1.svg"/> [ 브론즈 ]
 
 ### - 기하
 
@@ -1062,7 +1062,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - CCW/선분 교차
 
@@ -1115,7 +1115,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
 
 ### - 컨벡스 헐
 
@@ -1161,7 +1161,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 정규 표현식
 
@@ -1180,7 +1180,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - 트라이
 
@@ -1196,7 +1196,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
 
 ### - KMP 알고리즘
 
@@ -1274,7 +1274,7 @@
 
 [ * 목차로 가기 ](#--목차-)
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/10.svg"/> [ 실버 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 게임 이론
 
@@ -1315,7 +1315,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/15.svg"/> [ 골드 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/11.svg"/> [ 골드 ]
 
 ### - 스위핑
 
@@ -1352,7 +1352,7 @@
 
 <br>
 
-## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/20.svg"/> [ 플레티넘 ]
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/16.svg"/> [ 플레티넘 ]
 
 ### - Mo's 알고리즘
 
