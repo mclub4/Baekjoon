@@ -1440,11 +1440,11 @@
 
 ## < 읽을거리 목차 >
 
-[ 1. 개발 ](#-개발-)
+[ 1. Computer Science ](#-computer-science-)
 
-[ 2. Computer Science ](#-computer-science-)
+[ 2. 개발환경/기술 ](#-개발환경기술-)
 
-[ 3. 개발환경/기술 ](#-개발환경기술-)
+[ 3. 개발 ](#-개발-)
 
 [ 4. 시사 이슈 ](#-시사-이슈-)
 
@@ -1455,70 +1455,6 @@
 -----------------------------------------------
 
 <br>
-
-## [ 개발 ]
-
-### - 개발 아이디어
-
-  - [국민대학교 캡스톤 발표작 모음](https://kookmin-sw.github.io/2022/)
-  - [토이 프로젝트 모음](https://devfolio.kr/)
-  - [군대에서 게임 만들기](https://yongj.in/development/html-games/)
-
-### - GitHub
-
-  - [ReadME 꾸미기](https://yoon990.tistory.com/38)
-
-### - 게임
-
-- #### 컴퓨터 그래픽스
-
-  - [OpenGL (Learn OpenGL 번역 블로그)](https://heinleinsgame.tistory.com/3)
-  - [블랜더](https://namu.wiki/w/Blender)
-
-- #### Unity
-
-- #### 언리얼 엔진
-
-### - 앱 개발
-
-- #### Flutter
-
-   - [Flutter에 대해서](https://www.youtube.com/watch?v=JS-Si5GO3iA&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
-
-### - 웹 개발
-
-   - [ngrok](https://ngrok.com/)
-   
-### - 서버 개발
-
-- #### Django (장고)
-
-   - [Django](https://wikidocs.net/book/4223)
-   - [Flask](https://wikidocs.net/81039)
-
-- #### Spring
-
-### - 봇 개발
-
-- 카카오톡 봇 만들기
-  
-   - [Spy++에 대하여](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tipsware&logNo=221003761523)
-   - [카카오톡 봇 만들기](https://airfox1.tistory.com/2)
-   - [슬랙 백준 봇 만들기](https://velog.io/@chlee4858/BOJ-%EC%8A%AC%EB%9E%99%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-
-### - DB
-
-- #### Firebase
-
-### - 빅데이터/딥러닝/머신러닝
-
-- #### Tensorflow
-
-- #### YOLO
-
-<br>
-
-[* 10장으로 바로가기](#--개발-및-읽을거리-)
 
 ## [ Computer Science ]
 
@@ -1585,35 +1521,118 @@
   - github 설정
   - git 
 
-### = CI/CD
+### VI/VIM 에디터
 
- - #### 설명
+- #### 설명
 
-   - [CI/CD란?](https://seosh817.tistory.com/104)
+  - [VI란?](https://namu.wiki/w/vi)
+  - [VIM 에디터](https://blog.naver.com/zbqmgldjfh/222086097819)
+  - [VIM 단축키 모음](https://withcoding.com/112)
+
+### - 도커(Doker)
+
+- #### 설명
+   
+  - [도커 홈페이지](https://www.docker.com/)
+  - [도커란?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+  - [도커를 왜 써야되는가?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+  - [도커에 대해 배우기](https://pyrasis.com/jHLsAlwaysUpToDateDocker)
+
+### - CI/CD
+
+- #### 설명
+
+  - [CI/CD란?](https://seosh817.tistory.com/104)
+
+- #### Jenkins
+
+  - [Jenkins 홈페이지](https://www.jenkins.io/)
+
+- #### Github Actions
+
+### - AWS
+
+### - SPY++
+
+- #### 설명
+
+  - [Spy++에 대하여](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tipsware&logNo=221003761523)
 
 ### - 디자인 패턴
 
 - #### 설명
 
-    - [디자인 패턴이란?](https://gmlwjd9405.github.io/2018/07/06/design-pattern.html)
-    - [싱글톤 패턴](https://gmlwjd9405.github.io/2018/07/06/singleton-pattern.html)
+   - [디자인 패턴이란?](https://gmlwjd9405.github.io/2018/07/06/design-pattern.html)
+   - [싱글톤 패턴](https://gmlwjd9405.github.io/2018/07/06/singleton-pattern.html)
     
-### - 도커(Doker)
-
-- #### 설명
-   
-   - [도커 홈페이지](https://www.docker.com/)
-   - [도커란?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
-   - [도커를 왜 써야되는가?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
-   - [도커에 대해 배우기](https://pyrasis.com/jHLsAlwaysUpToDateDocker)
-
 ### - 라즈베리파이(Raspberry Pi)
 
 [* 10장으로 바로가기](#--개발-및-읽을거리-)
 
 <br>
 
+## [ 개발 ]
 
+### - 개발 아이디어
+
+  - [국민대학교 캡스톤 발표작 모음](https://kookmin-sw.github.io/2022/)
+  - [토이 프로젝트 모음](https://devfolio.kr/)
+  - [군대에서 게임 만들기](https://yongj.in/development/html-games/)
+
+### - GitHub
+
+  - [ReadME 꾸미기](https://yoon990.tistory.com/38)
+
+### - 게임
+
+- #### 컴퓨터 그래픽스
+
+  - [OpenGL (Learn OpenGL 번역 블로그)](https://heinleinsgame.tistory.com/3)
+  - [블랜더](https://namu.wiki/w/Blender)
+
+- #### Unity
+
+- #### 언리얼 엔진
+
+### - 앱 개발
+
+- #### Flutter
+
+   - [Flutter에 대해서](https://www.youtube.com/watch?v=JS-Si5GO3iA&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)
+
+### - 웹 개발
+
+   - [ngrok](https://ngrok.com/)
+   
+### - 서버 개발
+
+- #### Django (장고)
+
+   - [Django](https://wikidocs.net/book/4223)
+   - [Flask](https://wikidocs.net/81039)
+
+- #### Spring
+
+### - 봇 개발
+
+- 카카오톡 봇 만들기
+  
+   - [카카오톡 봇 만들기](https://airfox1.tistory.com/2)
+   - [슬랙 백준 봇 만들기](https://velog.io/@chlee4858/BOJ-%EC%8A%AC%EB%9E%99%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+### - DB
+
+- #### Firebase
+
+### - 빅데이터/딥러닝/머신러닝
+
+- #### Tensorflow
+
+- #### YOLO
+
+[* 10장으로 바로가기](#--개발-및-읽을거리-)
+
+<br>
 ## [ 시사 이슈 ]
 
 ### - 사건 사고
