@@ -1079,11 +1079,11 @@
 
 - #### 알고리즘 설명
 
-  - 
+  - [FFT](https://anz1217.tistory.com/112)
 
 - #### 기본 문제
 
-  - 
+  - [큰 수 곱셈(2)](https://www.acmicpc.net/problem/15576)
 
 - #### 응용 문제
 
