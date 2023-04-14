@@ -1477,7 +1477,10 @@
   - [IPv4와 IPv6](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hai0416&logNo=221566797342)
   - [IP주소의 클래스](https://limkydev.tistory.com/168)
   - [서브넷마스크란?](https://code-lab1.tistory.com/34)
-  
+
+### - 컴퓨터 구조
+
+- #### 설명
 
 ### - 운영체제
 
@@ -1501,6 +1504,16 @@
 - #### 동시성
 
   - [동시성](https://spacebike.tistory.com/22)
+
+### - 데이터 베이스
+
+- #### 설명
+
+### - 빅데이터/머신러닝/딥러닝
+
+- #### 경사 하강법 (Gradient Descent)
+
+   - [경사 하강법이란?](https://box-world.tistory.com/7)
 
 [* 10장으로 바로가기](#--개발-및-읽을거리-)
 
