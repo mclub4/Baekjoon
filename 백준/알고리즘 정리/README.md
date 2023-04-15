@@ -491,6 +491,7 @@
   - [[골드4] 전력난](https://www.acmicpc.net/problem/6497)
   - [[골드4] 도시 분할 계획](https://www.acmicpc.net/problem/1647)
   - [[골드3] 별자리 만들기](https://www.acmicpc.net/problem/4386)
+  - [[골드3] 슬슬 가지를 먹지 않으면 죽는다](https://www.acmicpc.net/problem/27945)
   - [[골드3] 우주신과의 교감](https://www.acmicpc.net/problem/1774)
   - [[골드3] 학교 탐방하기](https://www.acmicpc.net/problem/13418)
   - [[플레5] 행성 터널](https://www.acmicpc.net/problem/2887)
