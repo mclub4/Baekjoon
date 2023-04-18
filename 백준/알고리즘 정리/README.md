@@ -1331,11 +1331,41 @@
 - #### 알고리즘 설명
 
   - [구현/시뮬레이션](https://velog.io/@jehjong/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B5%AC%ED%98%84Implementation-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EA%B3%BC-%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89)
-  - 딱히 알고리즘은 아니지만.. 코테에서 많이 나오는 유형이라 중요한 넣을데 없어서 여기 넣음. 그래서 위에 나오는 문제라 중복인거 많고, 위에 알고리즘들을 다 응용해서 풀어야됨.
+  - 딱히 알고리즘은 아니지만, 코딩 테스트에서 굉장히 많이 나오는 유형이라 중요한 넣을데 없어서 여기 넣음. 참고로 위에 나와있는 문제와 중복이 많음.
+  - 대부분이 골드5 이상이며, 대부분 기본문제가 골드 4 이하의 모든 알고리즘들 중 골라서 잘 응용해서 풀어야되는 문제임. 따라서 적어도 기본 문제가 골드4인 알고리즘들까지 완벽히 숙지하고 풀어볼 것!
   
 - #### 문제들
 
-  - [
+  - [[골드5] 주문은 토기입니까](https://www.acmicpc.net/problem/27447)
+  - [[골드5] 틱택토](https://www.acmicpc.net/problem/7682)
+  - [[골드5] 인구이동](https://www.acmicpc.net/problem/16234)
+  - [[골드5] 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+  - [[골드5] 치킨 배달](https://www.acmicpc.net/problem/15686)
+  - [[골드5] 로봇 청소기](https://www.acmicpc.net/problem/14503)
+  - [[골드5] 톱니바퀴](https://www.acmicpc.net/problem/14891)
+  - [[골드5] 치노의 라떼아트(Easy)](https://www.acmicpc.net/problem/27311)
+  - [[골드4] 뱀](https://www.acmicpc.net/problem/3190)
+  - [[골드4] 테트리미노](https://www.acmicpc.net/problem/14500)
+  - [[골드4] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
+  - [[골드4] 감시](https://www.acmicpc.net/problem/15683)
+  - [[골드4] 미세먼지 안녕](https://www.acmicpc.net/problem/17144)
+  - [[골드4] 드래곤 커브](https://www.acmicpc.net/problem/15685)
+  - [[골드4] 주사위 굴리기](https://www.acmicpc.net/problem/14499)
+  - [[골드4] 연구소](https://www.acmicpc.net/problem/14502)
+  - [[골드4] 사격 연습](https://www.acmicpc.net/problem/27958)
+  - [[골드3] 아기 상어](https://www.acmicpc.net/problem/16236)
+  - [[골드3] 경사로](https://www.acmicpc.net/problem/14890)
+  - [[골드3] 나무 재태크](https://www.acmicpc.net/problem/16235)
+  - [[골드3] 치즈](https://www.acmicpc.net/problem/2638)
+  - [[골드3] 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)
+  - [[골드3] 체인소맨](https://www.acmicpc.net/problem/27448)
+  - [[골드2] 2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [[골드2] 청소년 상어](https://www.acmicpc.net/problem/19236)
+  - [[골드2] 어른 상어](https://www.acmicpc.net/problem/19237)
+  - [[골드1] 구슬 탈출2](https://www.acmicpc.net/problem/13460)
+  - [[골드1] 낚시왕](https://www.acmicpc.net/problem/17143)
+
+<br>
 
 ## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
