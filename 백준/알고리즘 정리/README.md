@@ -1324,6 +1324,19 @@
 
 [ * 목차로 가기 ](#--목차-)
 
+## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/nr.svg"/>[ 번외 ]
+
+### - 구현/시뮬레이션
+
+- #### 알고리즘 설명
+
+  - [구현/시뮬레이션](https://velog.io/@jehjong/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B5%AC%ED%98%84Implementation-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EA%B3%BC-%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89)
+  - 딱히 알고리즘은 아니지만.. 코테에서 많이 나오는 유형이라 중요한 넣을데 없어서 여기 넣음. 그래서 위에 나오는 문제라 중복인거 많고, 위에 알고리즘들을 다 응용해서 풀어야됨.
+  
+- #### 문제들
+
+  - [
+
 ## <img height="28px" width="28px" src="https://static.solved.ac/tier_small/6.svg"/> [ 실버 ]
 
 ### - 게임 이론
