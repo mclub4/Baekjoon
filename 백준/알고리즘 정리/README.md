@@ -1261,6 +1261,7 @@
 - #### 기본 문제
 
   - [[플레5] 찾기](https://www.acmicpc.net/problem/1786)
+  - [KMP 기본 코드](https://github.com/mclub4/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC/KMP/KMP.java)
 
 - #### 응용 문제
 
