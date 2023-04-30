@@ -523,8 +523,8 @@
 
 - #### 기본 문제
 
-  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753)
-  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657)
+  - [[골드4] 최단 경로](https://www.acmicpc.net/problem/1753) (다익스트라 알고리즘)
+  - [[골드4] 타임머신](https://www.acmicpc.net/problem/11657) (밸판-포드 알고리즘)
 
 - #### 응용 문제
 
@@ -1130,8 +1130,8 @@
 
 - #### 기본 문제
 
-  - [[골드5] CCW](https://www.acmicpc.net/problem/11758)
-  - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386)
+  - [[골드5] CCW](https://www.acmicpc.net/problem/11758) (기본 CCW)
+  - [[골드3] 선분의 교차1](https://www.acmicpc.net/problem/17386) (CCW를 이용한 선분교차 판정)
 
 - #### 응용 문제
   
@@ -1262,8 +1262,8 @@
 
 - #### 기본 문제
 
-  - [[플레5] 찾기](https://www.acmicpc.net/problem/1786)(기본 KMP)
-  - [[플레5] 문자열 제곱](https://www.acmicpc.net/problem/4354)(KMP Failure Function 이용하기)
+  - [[플레5] 찾기](https://www.acmicpc.net/problem/1786) (기본 KMP)
+  - [[플레5] 문자열 제곱](https://www.acmicpc.net/problem/4354) (KMP Failure Function 이용하기)
   - [KMP 기본 코드](https://github.com/mclub4/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC/KMP/KMP.java)
 
 - #### 응용 문제
