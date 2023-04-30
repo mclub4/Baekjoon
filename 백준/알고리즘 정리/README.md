@@ -1253,6 +1253,8 @@
 - #### 알고리즘 설명
 
   - [KMP 알고리즘](https://bowbowbow.tistory.com/6)
+  - [위에꺼 잘 이해 안될때 비교해서 읽으면 좋은 글](https://chanhuiseok.github.io/posts/algo-14/)
+  - [KMP Failure Function의 응용 (31분 부터)](https://www.youtube.com/watch?v=OhMFeV8VeAc&t=1869s)
 
 - #### 참고 자료
 
