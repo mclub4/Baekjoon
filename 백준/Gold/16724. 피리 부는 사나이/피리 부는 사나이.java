@@ -9,9 +9,6 @@ public class Main {
     static int[] parent;
     static boolean[] visited;
     static int n,m;
-    static int[] dir_x = {1,-1,0,0};
-    static int[] dir_y = {0,0,1,-1};
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -32,9 +29,7 @@ public class Main {
                 board[i][j] = tmp.charAt(j);
             }
         }
-
-        int answer = 0;
-
+        
         for(int i = 0; i<n; i++){
             for(int j = 0; j<m; j++){
                 int curidx = getidx(i,j);
@@ -51,17 +46,7 @@ public class Main {
                 }
             }
         }
-
-//        int[] cnt = new int[n*m];
-//
-//        for(int i = 0; i<cnt.length; i++){
-//            cnt[parent[i]]++;
-//        }
-//
-//        for(int i = 0; i<cnt.length; i++){
-//            if(cnt[i] != 0) answer ++;
-//        }
-
+        
         HashSet<Integer> set = new HashSet<>();
         for(int i = 0; i<parent.length; i++){
             set.add(find(i));
