@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashSet;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -9,6 +8,7 @@ public class Main {
     static int[] parent;
     static boolean[] visited;
     static int n,m;
+    static int count = 0;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -29,30 +29,20 @@ public class Main {
                 board[i][j] = tmp.charAt(j);
             }
         }
-        
+
         for(int i = 0; i<n; i++){
             for(int j = 0; j<m; j++){
                 int curidx = getidx(i,j);
-                if(!visited[curidx]){
-                    int nextidx;
-                    if(board[i][j] == 'D') nextidx = getidx(i+1, j);
-                    else if(board[i][j] == 'L') nextidx = getidx(i, j-1);
-                    else if(board[i][j] == 'R') nextidx = getidx(i, j+1);
-                    else nextidx = getidx(i-1, j);
-                    if(find(curidx) != find(nextidx)){
-                        union(curidx, nextidx);
-                    }
-                    visited[curidx] = true;
-                }
+                int nextidx;
+                if(board[i][j] == 'D') nextidx = getidx(i+1, j);
+                else if(board[i][j] == 'L') nextidx = getidx(i, j-1);
+                else if(board[i][j] == 'R') nextidx = getidx(i, j+1);
+                else nextidx = getidx(i-1, j);
+                union(curidx, nextidx);
             }
         }
         
-        HashSet<Integer> set = new HashSet<>();
-        for(int i = 0; i<parent.length; i++){
-            set.add(find(i));
-        }
-
-        System.out.println(set.size());
+        System.out.println(count);
     }
 
     public static int getidx(int i, int j){
@@ -71,6 +61,9 @@ public class Main {
         if(parent_a != parent_b){
             if(parent_a<parent_b) parent[parent_b] = parent_a;
             else parent[parent_a] = parent_b;
+        }
+        else{
+            count ++;
         }
     }
 }
