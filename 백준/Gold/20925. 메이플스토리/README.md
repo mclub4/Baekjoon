@@ -14,7 +14,7 @@
 
 <p>상원이는 겨울방학 동안 메이플스토리를 할 것이다. 개강 후에는 바쁘기 때문에 방학 동안 최대한 레벨을 많이 올리려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src=""></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fc1e85b2-f55c-44de-beb5-582be4408bf7/-/preview/"></p>
 
 <p>메이플스토리에는 여러 가지 사냥터가 있다. 각 사냥터는 입장에 필요한 최소 레벨, 지형, 몬스터 레벨, 몬스터 수, 버닝 등등 다양한 특징을 가진다. 상원이는 경험치가 가장 중요하기 때문에 사냥터의 특징을 <strong>입장에 필요한 최소 경험치</strong>와 <strong><mjx-container class="MathJax" jax="CHTML" style="font-size: 109%; position: relative;"> <mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mn class="mjx-n"><mjx-c class="mjx-c31"></mjx-c></mjx-mn></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn></math></mjx-assistive-mml><span aria-hidden="true" class="no-mathjax mjx-copytext">$1$</span></mjx-container>분마다 얻는 경험치</strong>로 간략화했다. 사냥을 시작하고 매 분마다 지금 있는 사냥터에서 계속 사냥할지 다른 사냥터로 갈지 결정한다. 코디 아이템에 돈을 다 써 텔레포트를 할 수 없는 상원이는 사냥터 사이를 직접 걸어서 이동한다. 사냥터 사이를 이동하는 동안 사냥을 할 수 없기 때문에 경험치를 얻을 수 없다.</p>
 
