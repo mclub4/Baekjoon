@@ -33,17 +33,16 @@ public class Main {
             day = -1;
         }
         else{
-            while(box.size() != 0){
+            while(!box.isEmpty()){
                 int crane_idx = 0;
                 int box_idx = 0;
                 while(crane_idx<n && box_idx<box.size()){
-                    if(box.size() == 0 || box_idx>=box.size()) break;
+                    if(box_idx>=box.size()) break;
                     int crane_weight = crane.get(crane_idx);
                     int box_weight = box.get(box_idx);
                     if(crane_weight>=box_weight){
                         box.remove(box_idx);
                         crane_idx ++;
-                        box_idx = 0;
                     }
                     else{
                         box_idx++;
