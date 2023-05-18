@@ -20,9 +20,15 @@ public class Main {
         long result = 0;
 
         for(int i = 0; i<n; i++){
-            while(!stack.isEmpty() && stack.peek() <= building[i]) stack.pop();
+            while(!stack.isEmpty() && stack.peek() <= building[i]){
+                stack.pop();
+                result += stack.size();
+            }
             stack.push(building[i]);
-            result += stack.size() - 1;
+        }
+        while(!stack.isEmpty()){
+            stack.pop();
+            result += stack.size();
         }
 
         System.out.println(result);
