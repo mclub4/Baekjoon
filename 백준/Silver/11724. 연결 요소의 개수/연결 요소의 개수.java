@@ -32,14 +32,11 @@ public class Main {
         for(int i = 0; i<m; i++){
             union(query[i][0], query[i][1]);
         }
-        for(int i = 0; i<m; i++){
-            union(query[i][0], query[i][1]);
-        }
 
         HashSet<Integer> set = new HashSet<>();
 
         for(int i = 1; i<n+1; i++){
-            set.add(parent[i]);
+            set.add(find(i));
         }
 
         System.out.println(set.size());
