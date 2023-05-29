@@ -58,20 +58,15 @@ public class Main {
     public static boolean checkCycle(int now, int prev, int start){
         visited[now] = true;
 
-//        System.out.println(now + "의 장대한 모험이 시작된다.");
-
         for(int i = 0; i<edge[now].size(); i++){
             int next = edge[now].get(i);
             if(!visited[next]){
-//                System.out.println(now + "에서" + next + "로 이어지는 숨막히는 승부");
-                checkCycle(next, now, start);
-//                if(checkCycle(next, now, start)){
-//                    cycle[next] = true;
-//                    return true;
-//                }
+                if(checkCycle(next, now, start)){
+                    cycle[next] = true;
+                    return true;
+                }
             }
             else if(next != prev && next == start){
-//                System.out.println(next + "에서 결국 사이클이 걸리고 마는데");
                 cycle[next] = true;
                 return true;
             }
