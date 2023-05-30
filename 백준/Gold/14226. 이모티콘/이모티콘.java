@@ -27,7 +27,7 @@ public class Main {
         queue.add(new Emotion(1,0,0));
 
         //visited[현재 이모티콘 개수][작업한 후 이모티콘 개수][작업의 종류(0:복사, 1:붙어넣기, 2:하나 빼기)]
-        boolean[][][] visited = new boolean[2001][2001][3];
+        boolean[][][] visited = new boolean[1002][1002][3];
 
         while(!queue.isEmpty()){
             Emotion emotion = queue.poll();
@@ -44,9 +44,11 @@ public class Main {
                 queue.add(new Emotion(emoticon, time+1, emoticon));
             }
             //현재 이모티콘에 붙어넣기
-            if(clipboard != 0 && emoticon+clipboard<=2000 && !visited[emoticon][emoticon+clipboard][1]){
-                visited[emoticon][emoticon+clipboard][1] = true;
-                queue.add(new Emotion(emoticon+clipboard, time+1, clipboard));
+            if(emoticon+clipboard<1002){
+                if(clipboard != 0 && !visited[emoticon][emoticon+clipboard][1]){
+                    visited[emoticon][emoticon+clipboard][1] = true;
+                    queue.add(new Emotion(emoticon+clipboard, time+1, clipboard));
+                }
             }
             //이모티콘 하나 빼기
             if(emoticon != 0 && !visited[emoticon][emoticon-1][2]){
