@@ -46,10 +46,7 @@ public class Main {
         for(int i = 0; i<n; i++){
             int next = check | (1<<i);
             if(w[v][i] == 0 || (check & (1<<i)) != 0) continue;
-//            System.out.println(v + "와(전) "  + Integer.toBinaryString(check) + " " + dp[v][check]);
-//            System.out.println("Next는? : " + Integer.toBinaryString(next));
             dp[v][check] = Math.max(dp[v][check], tsp(i,next) + 1);
-//            System.out.println(v + "와 "  + Integer.toBinaryString(check) + " " + dp[v][check]);
         }
 
         return dp[v][check];
