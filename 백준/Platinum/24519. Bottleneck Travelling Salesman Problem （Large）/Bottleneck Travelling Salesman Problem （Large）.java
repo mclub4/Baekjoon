@@ -46,8 +46,8 @@ public class Main {
 
     public static long tsp(int v, int check){
         if(check == (bitmask-1)){
-            if(w[v][0] == 0) return MAX;
-            else return w[v][0];
+            if(w[v][0] == 0) return dp[v][check] = MAX;
+            else return dp[v][check] = w[v][0];
         }
 
         if(dp[v][check] != -1) return dp[v][check];
@@ -67,19 +67,18 @@ public class Main {
         result[depth] = v;
         if(depth == (n-1)){
             if(check == (bitmask-1) && w[v][0] != 0){
-                    System.out.println(answer);
-                    for(int i = 0; i<n; i++){
-                        sb.append((result[i]+1) + " ");
-                    }
-                    flag = true;
+                System.out.println(answer);
+                for(int i = 0; i<n; i++){
+                    sb.append((result[i]+1) + " ");
+                }
+                flag = true;
             }
         }
 
         for(int i = 0; i<n; i++){
             int next = check | (1<<i);
             if(w[v][i] == 0 || (check & (1<<i)) != 0) continue;
-            long nxt = tsp(i,next);
-            if(dp[v][check] == Math.max(nxt, w[v][i])){
+            if(dp[v][check] == Math.max(dp[i][next], w[v][i])){
                 tracking(i, next, depth+1);
                 break;
             }
