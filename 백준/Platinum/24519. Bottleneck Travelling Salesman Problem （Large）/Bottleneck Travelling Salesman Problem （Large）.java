@@ -7,9 +7,9 @@ import java.util.StringTokenizer;
 public class Main {
     static int n,m, bitmask;
     static StringBuilder sb = new StringBuilder();
-    static long[][] w;
-    static long[][] dp;
-    static long answer;
+    static int[][] w;
+    static int[][] dp;
+    static int answer;
     static int MAX = 987654321;
     static boolean flag = false;
     static int[] result;
@@ -21,7 +21,7 @@ public class Main {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
 
-        w = new long[n][n];
+        w = new int[n][n];
         result = new int[n];
 
         for(int i = 0; i<m; i++){
@@ -33,7 +33,7 @@ public class Main {
 
         bitmask = (1<<n);
 
-        dp = new long[n][bitmask];
+        dp = new int[n][bitmask];
         for(int i = 0; i<n; i++){
             Arrays.fill(dp[i], -1);
         }
@@ -44,7 +44,7 @@ public class Main {
         else System.out.println(-1);
     }
 
-    public static long tsp(int v, int check){
+    public static int tsp(int v, int check){
         if(check == (bitmask-1)){
             if(w[v][0] == 0) return dp[v][check] = MAX;
             else return dp[v][check] = w[v][0];
@@ -56,7 +56,7 @@ public class Main {
         for(int i = 0; i<n; i++){
             int next = check | (1<<i);
             if(w[v][i] == 0 || (check & (1<<i)) != 0) continue;
-            long nxt = tsp(i,next);
+            int nxt = tsp(i,next);
             dp[v][check] = Math.min(dp[v][check], Math.max(nxt, w[v][i]));
         }
 
