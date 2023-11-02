@@ -27,7 +27,7 @@ public class Main {
         int target = Math.abs(n - 100);
 
         if(target != 0){
-            for(int i = 0; i<=999999; i++){
+            for(int i = 0; i<=999899; i++){
                 String str = String.valueOf(i);
 
                 boolean pressed = false;
