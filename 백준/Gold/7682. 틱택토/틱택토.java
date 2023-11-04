@@ -1,17 +1,16 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
 
 public class Main {
     static char[][] gameboard;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
 
         while(true){
             String str = br.readLine();
-
             if(str.equals("end")) break;
             gameboard = new char[3][3];
 
@@ -27,15 +26,18 @@ public class Main {
                 }
             }
 
-            if(o>x) sb.append("invalid\n");
-            else if(x - o >= 2 || x-o<0) sb.append("invalid\n");
+            if(x < o) sb.append("invalid\n");
+            else if(x - o >=2)sb.append("invalid\n");
             else if(bingo('X') && bingo('O')) sb.append("invalid\n");
-            else if(bingo('O') && x-o == 1) sb.append("invalid\n");
-            else if(bingo('X') && x-o == 0) sb.append("invalid\n");
+            else if(bingo('O') && (x-o)>0) sb.append("invalid\n");
+            else if(bingo('X') && (x==o)) sb.append("invalid\n");
             else if(bingo('X') || bingo('O')) sb.append("valid\n");
             else if(x+o == 9) sb.append("valid\n");
             else sb.append("invalid\n");
+
         }
+
+
         System.out.println(sb);
     }
 
@@ -51,4 +53,6 @@ public class Main {
 
         return false;
     }
+
+
 }
