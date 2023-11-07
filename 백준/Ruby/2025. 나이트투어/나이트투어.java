@@ -1,17 +1,21 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.Stack;
 import java.util.StringTokenizer;
 
 public class Main {
     static boolean[][] visited;
-    static Stack<String> stack;
-    static int[] dirx = {-2,-2,-1,1,2,2,1,-1};
-    static int[] diry = {-1,1,2,2,1,-1,-2,-2};
+    static StringBuilder sb;
+    static int[][] dirx = {{2, 2, -2, -2, 1, 1, -1, -1}, {1, -1, 1, -1 ,2, -2, 2, -2}, {-1, -1, 1, 1, -2, -2, 2, 2}, {-2, 2, -2, 2, -1, 1, -1, 1},
+            {1, 1, 2, 2, -1, -1, -2, -2}, {-2, -2, -1, -1, 2, 2, 1, 1}, {1, 1, -2, -2, -1, -1, 2, 2}, {2, 2, -1, -1, -2, -2, 1, 1},
+            {-1, 1, -2, 2, -1, 1, -2, 2}, {2, -2, 1, -1, 2, -2, 1, -1}};
+
+    static int[][] diry = {{1, -1, 1, -1, 2, -2, 2, -2}, {2, 2, -2, -2, 1, 1, -1, -1}, {-2, 2, -2, 2, -1, 1, -1, 1}, {-1, -1, 1, 1, -2, -2, 2, 2},
+            {-2, 2, -1, 1, -2, 2, -1, 1}, {1, -1, 2, -2, 1, -1, 2, -2}, {2, -2, 1, -1, 2, -2, 1, -1}, {-1, 1, -2, 2, -1, 1, -2, 2},
+            {-2, 2, -1, 1, 2, -2, 1, -1}, {-1, 1, -2, 2, 1, -1, 2, -2}};
+
     static int n;
+    static int idx;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
@@ -20,67 +24,20 @@ public class Main {
         int x = Integer.parseInt(st.nextToken());
         int y = Integer.parseInt(st.nextToken());
 
-
-        visited = new boolean[n+1][n+1];
-        if((x-1)>=0 && (x-1)<n && (y-1)>=0 && (y-1)<n){
-            visited[x][y] = true;
-            stack = new Stack<>();
-            if(dfs((x-1),(y-1),1)){
-                StringBuilder sb = new StringBuilder();
-                sb.append(x + " " + y + "\n");
-                while(!stack.isEmpty()){
-                    sb.append(stack.pop());
-                }
+        idx = 0;
+        while(true){
+            if(tour(x-1,y-1)){
                 System.out.println(sb);
+                break;
             }
-            else System.out.println(-1 + " " + -1);
-        }
-        else System.out.println(-1 + " " + -1);
-    }
-
-    public static boolean dfs(int x, int y, int depth){
-        if(depth == ((n-1)*(n-1))){
-            return true;
-        }
-
-        int minVal = 8;
-        int minIdx = -1;
-
-        for(int i = 0; i<8; i++){
-            int nx = x + dirx[i];
-            int ny = y + diry[i];
-            int val = 0;
-
-            if(check(nx, ny)){
-                for(int j = 0; j<8; j++){
-                    int tx = nx + dirx[j];
-                    int ty = ny + diry[j];
-
-                    if(check(tx, ty)) val++;
+            else{
+                if(idx == 9){
+                    System.out.println(-1 + " " + -1);
+                    break;
                 }
-
-                if(minVal > val){
-                    minVal = val;
-                    minIdx = i;
-                }
+                idx ++;
             }
         }
-
-        if(minIdx != -1){
-            int nx = x + dirx[minIdx];
-            int ny = y + diry[minIdx];
-
-            if(check(nx, ny)){
-                visited[x][y] = true;
-                if(dfs(nx, ny, depth+1)){
-                    stack.add((nx+1) + " " + (ny+1) + "\n");
-                    return true;
-                }
-                visited[x][y] = false;
-            }
-        }
-
-        return false;
     }
 
     public static boolean check(int x, int y){
@@ -90,5 +47,59 @@ public class Main {
             }
         }
         return false;
+    }
+
+    public static int warnsdorff(int x, int y){
+        int degree = 0;
+
+        for(int i = 0; i<8; i++){
+            int nx = x + dirx[idx][i];
+            int ny = y + diry[idx][i];
+            if(check(nx,ny)) degree++;
+        }
+
+        return degree;
+    }
+
+    public static boolean tour(int x, int y){
+        int goal = n*n;
+        int depth = 1;
+
+        sb = new StringBuilder();
+        visited = new boolean[n+1][n+1];
+        sb.append((x+1) + " " + (y+1) + "\n");
+        visited[x][y] = true;
+
+        while(goal > depth){
+            int minVal = 9;
+            int minIdx = -1;
+            int move = 0;
+
+            for(int i = 0; i<8; i++){
+                int nx = x + dirx[idx][i];
+                int ny = y + diry[idx][i];
+
+                if(check(nx, ny)){
+                    move++;
+                    int val = warnsdorff(nx, ny);
+
+                    if(minVal > val){
+                        minVal = val;
+                        minIdx = i;
+                    }
+                }
+            }
+
+            if(move == 0) return false;
+
+            x += dirx[idx][minIdx];
+            y += diry[idx][minIdx];
+
+            visited[x][y] = true;
+            sb.append((x+1) + " " + (y+1) + "\n");
+            depth++;
+        }
+
+        return  true;
     }
 }
