@@ -12,19 +12,20 @@ public class Main {
             int n = Integer.parseInt(br.readLine());
             StringTokenizer st = new StringTokenizer(br.readLine());
 
-            int[] dp = new int[n+1];
+            int[] arr = new int[n];
 
-            for(int i = 1; i<n+1; i++){
-                int val = Integer.parseInt(st.nextToken());
-                dp[i] = dp[i-1] + val;
+            for(int i = 0; i<n; i++){
+                arr[i] = Integer.parseInt(st.nextToken());
             }
 
-            int max = Integer.MIN_VALUE;
-            for(int i=1; i<=n; i++)
-                for(int j=i; j<=n; j++)
-                    max = Math.max(max, dp[j] - dp[i-1]);
+            long local = Integer.MIN_VALUE;
+            long global = Integer.MIN_VALUE;
+            for(int i = 0; i<n; i++){
+                local = Math.max(local + arr[i], arr[i]);
+                if(local>global) global = local;
+            }
 
-            System.out.println(max);
+            System.out.println(global);
         }
     }
 }
