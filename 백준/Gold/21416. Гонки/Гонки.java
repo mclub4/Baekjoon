@@ -52,12 +52,10 @@ public class Main {
 
             if(board[x][y] == 'T') return time;
 
-//            System.out.println(time + " : " + x + ", " + y);
 
             for(int i  = 0; i<4; i++){
                 int nx = x + dirx[i];
                 int ny = y + diry[i];
-//                System.out.println(i + "일때 바로 직전의 상황 : " + nx + ", " + ny);
 
                 if(nx<0 || nx>=n || ny<0 || ny>=m || board[nx][ny] == '#') continue;
 
@@ -78,13 +76,9 @@ public class Main {
 
                 nx = x + countx - countx/2;
                 ny = y + county - county/2;
-                
-//                System.out.println(x + ", " + y + "로 부터 시작해서 " + countx + "와 " + county + "한 상황");
-//                System.out.println(nx + ", " + ny);
+
 
                 if(!visited[nx][ny]){
-//                    System.out.println(time + "번째 여정에서 " + i + "를 향해서 가는데 근본은 " + x + ", " + y + "인데 말이야...");
-//                    System.out.println(nx + ", " + ny + "를 향해서 가는 여정에서 " + countx + "와 " + county + "와 함께 ");
                     visited[nx][ny] = true;
                     queue.add(new int[]{nx, ny, time+1});
                 }
