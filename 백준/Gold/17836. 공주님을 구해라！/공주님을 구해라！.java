@@ -1,11 +1,9 @@
-import org.w3c.dom.Node;
-
-import javax.swing.text.Position;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.file.attribute.PosixFileAttributes;
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.StringTokenizer;
 
 public class Main {
     public static class Position{
@@ -48,7 +46,9 @@ public class Main {
 
     public static int bfs(){
         Queue<Position> queue = new LinkedList<>();
-        queue.add(new Position(0,0, 0, board[0][0] == 2 ? true : false ));
+        //만약 초기위치부터 그람이 있을 수도 있기 때문에 그걸 고려해줘서 넣어줘야 한다.
+        //시작위치부터 그람이 있다면 무조건적으로 그람을 들고가는게 유리하다.
+        queue.add(new Position(0,0, 0, false));
         visited[0][0][0] = true;
 
         while(!queue.isEmpty()){
