@@ -1,75 +1,80 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.*;
 
 public class Main {
-    public static class Node implements Comparable<Node>{
-        int end, weight;
 
-        public Node(int end, int weight){
-            this.end = end;
+    private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    private static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    private static final int INF = 100_000_000;
+    private static int T;
+    private static int V, E, t;
+    private static List<List<Node>> list;
+    private static int dist[];
+    private static List<Integer> candidate;
+
+    static class Node implements Comparable<Node> {
+
+        int v, weight;
+
+        public Node(int v, int weight) {
+            this.v = v;
             this.weight = weight;
         }
 
         @Override
         public int compareTo(Node o) {
-            return this.weight - o.weight;
+            return weight - o.weight;
         }
     }
 
-    static ArrayList<Node>[] nodelist;
-    static int[] destination;
-    static int n;
-
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        int test = Integer.parseInt(br.readLine());
+        T = Integer.parseInt(br.readLine());
         StringBuilder sb = new StringBuilder();
 
-        while(test-->0){
+        for (int i = 0; i < T; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
+            V = Integer.parseInt(st.nextToken());
+            E = Integer.parseInt(st.nextToken());
+            t = Integer.parseInt(st.nextToken());
 
-            n = Integer.parseInt(st.nextToken());
-            int m = Integer.parseInt(st.nextToken());
-            int t = Integer.parseInt(st.nextToken());
+            dist = new int[V + 1];
+            Arrays.fill(dist, INF);
+
+            list = new ArrayList<>();
+            for (int j = 0; j < V + 1; j++)
+                list.add(new ArrayList<>());
 
             st = new StringTokenizer(br.readLine());
-            int s = Integer.parseInt(st.nextToken());
+            int start = Integer.parseInt(st.nextToken());
             int g = Integer.parseInt(st.nextToken());
             int h = Integer.parseInt(st.nextToken());
 
-            nodelist = new ArrayList[n+1];
-            for(int i = 1; i<n+1; i++){
-                nodelist[i] = new ArrayList<>();
-            }
-
-            for(int i = 0; i<m; i++){
+            for (int j = 0; j < E; j++) {
                 st = new StringTokenizer(br.readLine());
-                int a = Integer.parseInt(st.nextToken());
-                int b = Integer.parseInt(st.nextToken());
-                int d = Integer.parseInt(st.nextToken());
-                nodelist[a].add(new Node(b, d));
-                nodelist[b].add(new Node(a, d));
+                int u = Integer.parseInt(st.nextToken());
+                int v = Integer.parseInt(st.nextToken());
+                int weight = Integer.parseInt(st.nextToken());
+
+                if ((u == g && v == h) || (u == h && v == g)) {
+                    list.get(u).add(new Node(v, weight * 2 - 1));
+                    list.get(v).add(new Node(u, weight * 2 - 1));
+                } else {
+                    list.get(u).add(new Node(v, weight * 2));
+                    list.get(v).add(new Node(u, weight * 2));
+                }
             }
 
-            destination = new int[t];
-            for(int i = 0; i<t; i++){
-                destination[i] = Integer.parseInt(br.readLine());
-            }
+            // 목적지 후보를 저장한다.
+            candidate = new ArrayList<>();
+            for (int j = 0; j < t; j++)
+                candidate.add(Integer.parseInt(br.readLine()));
 
-            ArrayList<Integer> answer = new ArrayList<>();
-            for(int next : destination){
-                int case1 = dijkstra(s,h) + dijkstra(h, g) + dijkstra(g, next);
-                int case2 = dijkstra(s,g) + dijkstra(g, h) + dijkstra(h, next);
-                int base = dijkstra(s, next);
-                if(Math.min(case1, case2) == base) answer.add(next);
-            }
+            dijkstra(start);
 
-            Collections.sort(answer);
-            for(int a : answer){
-                sb.append(a + " ");
+            Collections.sort(candidate);
+
+            for (int num : candidate) {
+                if (dist[num] % 2 == 1) sb.append(num + " ");
             }
             sb.append("\n");
         }
@@ -77,30 +82,25 @@ public class Main {
         System.out.println(sb);
     }
 
-    public static int dijkstra(int s, int e){
-        boolean[] check = new boolean[n+1];
-        int[] dist = new int[n+1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
+    private static void dijkstra(int u) {
+        boolean[] visited = new boolean[V + 1];
+        PriorityQueue<Node> pq = new PriorityQueue<>();
 
-        PriorityQueue<Node> queue = new PriorityQueue<>();
-        queue.add(new Node(s, 0));
-        dist[s] = 0;
+        dist[u] = 0;
+        pq.add(new Node(u, 0));
 
-        while(!queue.isEmpty()){
-            Node cur = queue.poll();
-            int end = cur.end;
+        while (!pq.isEmpty()) {
+            Node currentNode = pq.poll();
 
-            if(check[end] == true) continue;
-            check[end] = true;
+            if (visited[currentNode.v]) continue;
+            visited[currentNode.v] = true;
 
-            for(Node node : nodelist[end]){
-                if(dist[node.end] > dist[end] + node.weight){
-                    dist[node.end] = dist[end] + node.weight;
-                    queue.add(new Node(node.end, dist[node.end]));
+            for (Node node : list.get(currentNode.v)) {
+                if (!visited[node.v] && dist[node.v] > dist[currentNode.v] + node.weight) {
+                    dist[node.v] = dist[currentNode.v] + node.weight;
+                    pq.add(new Node(node.v, dist[node.v]));
                 }
             }
         }
-
-        return dist[e];
     }
 }
