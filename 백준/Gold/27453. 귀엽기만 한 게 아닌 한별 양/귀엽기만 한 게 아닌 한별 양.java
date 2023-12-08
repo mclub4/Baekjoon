@@ -70,12 +70,7 @@ public class Main {
 
                 if(nx<0 || ny<0 || nx>=n || ny>=m || visited[nx][ny][i] || board[nx][ny]<0) continue;
                 if(board[nx][ny]>k || i == (3-prev)) continue;
-//                if((x != a || y != b)){
-//                    System.out.println((x-dirx[prev]) + ", " + (y-diry[prev]) + " : " + board[x-dirx[prev]][y-diry[prev]]);
-//                    System.out.println(nx + ", " + ny + " : " + board[x-dirx[prev]][y-diry[prev]] + board[x][y] + board[nx][ny] + (board[x-dirx[prev]][y-diry[prev]] + board[x][y] + board[nx][ny]));
-//                }
                 if(prev != -1 && ((board[x-dirx[prev]][y-diry[prev]] + board[x][y] + board[nx][ny]) > k))continue;
-//                System.out.println(nx + " " + ny + "진입 성공! : " + dist + "의 거리 이동중!" + prev + "로 부터 왔다. 그 prev 좌표는 " + (x-dirx[prev]) + ", " + (y-diry[prev]) + " 중간은 " + x + ", " + y);
                 visited[nx][ny][i] = true;
                 queue.add(new int[]{nx, ny, dist+1, i});
             }
