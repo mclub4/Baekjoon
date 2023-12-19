@@ -2,85 +2,68 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 public class Main {
-    static class Node implements Comparable<Node>{
-        int start;
+    static class Node implements Comparable<Node> {
         int end;
-        int cost;
+        int d;
 
-        public Node(int start, int end, int cost){
-            this.start = start;
+        public Node(int end, int d) {
             this.end = end;
-            this.cost = cost;
+            this.d = d;
         }
 
         @Override
-        public int compareTo(Node o){
-            return Integer.compare(this.cost, o.cost);
+        public int compareTo(Node o) {
+            return this.d - o.d;
         }
     }
 
-    static int[] parent;
-    static ArrayList<Node> nodeList;
+    static ArrayList<Node>[] list;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
         int v = Integer.parseInt(st.nextToken());
         int e = Integer.parseInt(st.nextToken());
 
-        parent = new int [v+1];
-        nodeList = new ArrayList<>(e);
+        list = new ArrayList[v + 1];
 
-
-        for(int i = 1; i<v+1; i++){
-            parent[i] = i;
+        for (int i = 1; i < v + 1; i++) {
+            list[i] = new ArrayList<>();
         }
 
-        for(int i = 0; i<e; i++){
-            st = new StringTokenizer(br.readLine(), " ");
-            int start = Integer.parseInt(st.nextToken());
-            int end = Integer.parseInt(st.nextToken());
-            int cost = Integer.parseInt(st.nextToken());
-            Node tmp = new Node(start, end, cost);
-            nodeList.add(tmp);
+        for (int i = 0; i < e; i++) {
+            st = new StringTokenizer(br.readLine());
+            int a = Integer.parseInt(st.nextToken());
+            int b = Integer.parseInt(st.nextToken());
+            int d = Integer.parseInt(st.nextToken());
+            list[a].add(new Node(b, d));
+            list[b].add(new Node(a, d));
         }
 
-        Collections.sort(nodeList);
+        PriorityQueue<Node> queue = new PriorityQueue<>();
+        queue.add(new Node(1, 0));
+        boolean[] visited = new boolean[v + 1];
+        int weight = 0;
 
-        int answer = 0;
+        while (!queue.isEmpty()) {
+            Node cur = queue.poll();
 
-        for(int i = 0; i<e; i++){
-            Node tmp = nodeList.get(i);
-            if(find(tmp.start) != find(tmp.end)){
-                union(tmp.start, tmp.end);
-                answer += tmp.cost;
+            if (visited[cur.end]) continue;
+            visited[cur.end] = true;
+            weight += cur.d;
+
+            for (Node nxt : list[cur.end]) {
+                if (!visited[nxt.end]) {
+                    queue.add(new Node(nxt.end, nxt.d));
+                }
             }
         }
 
-        System.out.println(answer);
+        System.out.println(weight);
     }
-
-    public static int find(int v){
-        if(parent[v] == v) return v;
-        return parent[v] = find(parent[v]);
-    }
-
-    public static void union(int a, int b){
-        int parent_a = find(a);
-        int parent_b = find(b);
-
-        if(parent_a != parent_b){
-            if (parent_a < parent_b) {
-                parent[parent_b] = parent_a;
-            } else {
-                parent[parent_a] = parent_b;
-            }
-        }
-    }
-
 }
