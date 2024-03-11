@@ -37,15 +37,12 @@ public class Main {
         }
 
         backtracking(0, board, 0);
-//        System.out.println(answer + "는 전체 개수");
         System.out.println(answer - max);
     }
 
     public static void backtracking(int depth, int[][] map, int count) {
         if (depth == cctv.size()) {
-//            if (count >= max) System.out.println("지금이 최대야");
             max = Math.max(max, count);
-//            System.out.println(count + "가 나왔고 " + max + "가 최대임");
             return;
         }
 
@@ -55,14 +52,6 @@ public class Main {
                 for (int i = 0; i < 4; i++) {
                     int[][] copy = copyboard(map);
                     int tmp = count + observe(cur, i, copy);
-//                    System.out.println("case " + 1);
-//                    System.out.println(i + "번째 진입");
-//                    for (int a = 0; a < n; a++) {
-//                        for (int b = 0; b < m; b++) {
-//                            System.out.print(copy[a][b] + " ");
-//                        }
-//                        System.out.println("");
-//                    }
                     backtracking(depth + 1, copy, tmp);
                 }
                 break;
@@ -70,15 +59,6 @@ public class Main {
                 for (int i = 0; i < 4; i += 2) {
                     int[][] copy = copyboard(map);
                     int tmp = count + observe(cur, i, copy) + observe(cur, i + 1, copy);
-//                    System.out.println("case " + 2);
-//                    System.out.println(i + "번째 진입");
-//                    for (int a = 0; a < n; a++) {
-//                        for (int b = 0; b < m; b++) {
-//                            System.out.print(copy[a][b] + " ");
-//                        }
-//                        System.out.println("");
-//                    }
-//                    System.out.println("현재 개수 " + tmp);
                     backtracking(depth + 1, copy, tmp);
                 }
                 break;
@@ -87,14 +67,6 @@ public class Main {
                     for (int j = 2; j < 4; j++) {
                         int[][] copy = copyboard(map);
                         int tmp = count + observe(cur, i, copy) + observe(cur, j, copy);
-//                        System.out.println("case " + 3);
-//                        System.out.println(i + "와 " + j + "번째 진입");
-//                        for (int a = 0; a < n; a++) {
-//                            for (int b = 0; b < m; b++) {
-//                                System.out.print(copy[a][b] + " ");
-//                            }
-//                            System.out.println("");
-//                        }
                         backtracking(depth + 1, copy, tmp);
                     }
                 }
@@ -107,29 +79,13 @@ public class Main {
                         if (j == i) continue;
                         tmp += observe(cur, j, copy);
                     }
-//                    System.out.println("case " + 4);
-//                    System.out.println(i + "번째 진입");
-//                    for (int a = 0; a < n; a++) {
-//                        for (int b = 0; b < m; b++) {
-//                            System.out.print(copy[a][b] + " ");
-//                        }
-//                        System.out.println("");
-//                    }
-//                    System.out.println("현재 개수 " + tmp);
                     backtracking(depth + 1, copy, tmp);
                 }
                 break;
             case 5:
-//                System.out.println("case " + 5);
                 int[][] copy = copyboard(map);
                 int tmp = count;
                 for (int i = 0; i < 4; i++) tmp += observe(cur, i, copy);
-//                for (int a = 0; a < n; a++) {
-//                    for (int b = 0; b < m; b++) {
-//                        System.out.print(copy[a][b] + " ");
-//                    }
-//                    System.out.println("");
-//                }
                 backtracking(depth + 1, copy, tmp);
                 break;
         }
