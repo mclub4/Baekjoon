@@ -1,12 +1,13 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.Collections;
+import java.util.PriorityQueue;
+import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         int n = Integer.parseInt(st.nextToken());
@@ -15,47 +16,57 @@ public class Main {
 
         long[] damage = new long[n];
 
-        for(int i = 0; i<n; i++){
+        for (int i = 0; i < n; i++) {
             damage[i] = Long.parseLong(br.readLine());
         }
 
-        long[][] boss = new long[k][2];
+        long[][] reward = new long[k][2];
 
-        for(int i = 0; i<k; i++){
+        for (int i = 0; i < k; i++) {
             st = new StringTokenizer(br.readLine());
-            boss[i][0] = Long.parseLong(st.nextToken());
-            boss[i][1] = Long.parseLong(st.nextToken());
+            reward[i][0] = Long.parseLong(st.nextToken());
+            reward[i][1] = Long.parseLong(st.nextToken());
         }
 
-        int tmp = 1<<k;
-        Long[] answer = new Long[n];
-        Arrays.fill(answer, (long)0);
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<tmp; j++){
-                long time = 0;
-                long reward = 0;
-                for(int u = 0; u<k; u++){
-                    if((j & (1<<u)) == 0) continue;
+        PriorityQueue<Long> pq = new PriorityQueue<>(Collections.reverseOrder());
+        long[][] dp = new long[n][901];
 
-                    time += boss[u][0]/damage[i];
-                    if(boss[u][0]%damage[i] != 0){
-                        time++;
-                    }
-                    reward += boss[u][1];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < k; j++) {
+                boolean canKill = false;
+                long killTime = 0;
+                if (reward[j][0] % damage[i] == 0 && reward[j][0] / damage[i] <= 900) {
+                    canKill = true;
+                    killTime = reward[j][0] / damage[i];
+                } else if (reward[j][0] % damage[i] != 0 && (reward[j][0] / damage[i]) + 1 <= 900) {
+                    canKill = true;
+                    killTime = reward[j][0] / damage[i] + 1;
                 }
 
-                if(time > 900) continue;
-                answer[i] = Math.max(answer[i], reward);
+//                System.out.println(killTime + " " + i + "qj");
+                if (canKill) {
+                    for (int t = 900; t >= killTime; t--) {
+                        dp[i][t] = Math.max(dp[i][t], dp[i][(int) (t - killTime)] + reward[j][1]);
+                    }
+                }
             }
+
+            long meso = 0;
+
+            for (int t = 0; t <= 900; t++) {
+                meso = Math.max(meso, dp[i][t]);
+            }
+
+//            System.out.println(i + "번째  " + meso);
+            pq.add(meso);
         }
 
-        int total = 0;
+        int answer = 0;
 
-        Arrays.sort(answer, Collections.reverseOrder());
-        for(int i = 0; i<m; i++){
-            total += answer[i];
+        for (int i = 0; i < m; i++) {
+            answer += pq.poll();
         }
 
-        System.out.println(total);
+        System.out.println(answer);
     }
 }
